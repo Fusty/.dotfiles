@@ -26,6 +26,8 @@ setopt histignorespace
 setopt CORRECT
 # * shouldn't match dotfiles. ever.
 setopt noglobdots
+# why would you type 'cd dir' if you could just type 'dir'?
+setopt AUTO_CD
 
 # common aliases
 alias r='tmux attach'

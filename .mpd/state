@@ -1,8 +1,8 @@
 sw_volume: 78
 audio_device_state:1:default detected output
 state: pause
-current: 7189
-time: 962
+current: 7131
+time: 349
 random: 0
 repeat: 0
 single: 0
@@ -7143,6 +7143,8 @@ playlist_begin
 7129:Zelda Reorchestrated/Soundscapes_Vol._III/12_Majora's_Mask-_Ikana_Valley.mp3
 7130:Zelda Reorchestrated/Soundscapes_Vol._III/13_The_Wind_Waker-_Staff_Credits_Redux.mp3
 song_begin: http://94.23.39.204:8000
+Title: Selah Sue - Explanations 
+Name: Ledjam Radio
 mtime: 0
 song_end
 song_begin: http://94.23.39.204:8000

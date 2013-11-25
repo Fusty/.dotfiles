@@ -41,6 +41,7 @@ alias free='free -h'
 alias g='git'
 alias gi='git'
 alias serve='python2 -m SimpleHTTPServer'
+alias dmesg='dmesg -H'
 # paste
 alias paste="curl -F 'sprunge=<-' http://sprunge.us"
 # $d is Desktop

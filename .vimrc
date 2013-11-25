@@ -19,6 +19,8 @@ nmap <silent> <C-p> :tabprev<CR>
 imap <silent> <C-n> <esc><C-n>
 imap <silent> <C-p> <esc><C-p>
 
+" column selection is ctrl shift V
+
 " Create html tags when typing ,tag
 map! ,h1 <h1></h1><esc>2ba
 map! ,h2 <h2></h2><esc>2ba
@@ -29,12 +31,21 @@ map! ,span <span></span><esc>2ba
 map! ,p <p></p><esc>2ba
 map! ,a <a href=''></a><esc>2bra
 
+" vim mutt email
+au BufRead /tmp/mutt-* set tw=72
+
+augroup filetypedetect
+autocmd BufRead,BufNewFile *mutt-*              setfiletype mail
+augroup END
+
 " for emails
+map! ,b Bonjour,<Enter><Enter>
 map! ,c Cordialement,<Enter>~Nicolas CARPi<Enter><esc>
 map! ,r Regards,<Enter>~Nicolas CARPi<Enter><esc>
+map! ,@ @+<Enter>~Nico<esc>
 
 " Create backup files
-set backupdir=/Users/ktr/.vim/backup,/tmp
+"set backupdir=/Users/ktr/.vim/backup,/tmp
 " fix the backspace problem
 set backspace=indent,eol,start
 set history=50		" keep 50 lines of command line history
@@ -182,9 +193,9 @@ noremap g" g0
 "
 " tab fait esc, maj+tab fait tab
 inoremap <Tab> <Esc>
-inoremap &lt;S-Tab> <Tab>
+inoremap <S-Tab> <Tab>
 vnoremap <Tab> <Esc>
-vnoremap &lt;S-Tab> <Tab>
+vnoremap <S-Tab> <Tab>
 " tab navigation like firefox
 nmap <C-S-tab> :tabprevious<CR>
 nmap <C-tab> :tabnext<CR>

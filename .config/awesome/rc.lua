@@ -225,9 +225,6 @@ for s = 1, screen.count() do
 
     -- Create a tasklist widget
     mytasklist[s] = awful.widget.tasklist(s, awful.widget.tasklist.filter.currenttags, mytasklist.buttons)
-    -- MPD
-      local right_layout = wibox.layout.fixed.horizontal()
-      right_layout:add(musicwidget.widget)  -- Widget is added here.
     -- PACMAN --
     -- upward arrow image
     mypacmanimage = wibox.widget.imagebox()
@@ -290,7 +287,7 @@ for s = 1, screen.count() do
         -- if battery:match("A/C") then
         --    mybatterywidget:set_markup(spacer..battery..spacer)
         --else
-            mybatterywidget:set_markup(spacer..battery.."%"..spacer)
+            mybatterywidget:set_markup(spacer..battery..spacer)
         -- end
         fcur:close()
         fcap:close()
@@ -313,6 +310,7 @@ for s = 1, screen.count() do
     -- Widgets that are aligned to the right
     local right_layout = wibox.layout.fixed.horizontal()
     if s == 1 then right_layout:add(wibox.widget.systray()) end
+    right_layout:add(musicwidget.widget)  -- awesompd
     right_layout:add(mypacmanimage)
     right_layout:add(mypacmanwidget)
     right_layout:add(mytextclock)

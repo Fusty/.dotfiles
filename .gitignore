@@ -1,3 +1,4 @@
 .vim/.netrwhist
 .vim/view/
-.mpd/
+.config/mpd/database
+.config/mpd/log

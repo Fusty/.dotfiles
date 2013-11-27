@@ -251,6 +251,7 @@ for s = 1, screen.count() do
     pacman_timer:start()
 
     -- BATTERY --
+    --[[
     mybatterywidget = wibox.widget.textbox()
 
     function batteryInfo(adapter)
@@ -287,7 +288,7 @@ for s = 1, screen.count() do
         -- if battery:match("A/C") then
         --    mybatterywidget:set_markup(spacer..battery..spacer)
         --else
-            mybatterywidget:set_markup(spacer..battery..spacer)
+            -- mybatterywidget:set_markup(spacer..battery..spacer)
         -- end
         fcur:close()
         fcap:close()
@@ -297,6 +298,7 @@ for s = 1, screen.count() do
     battery_timer = timer({timeout = 20})
     battery_timer:connect_signal("timeout", function() batteryInfo("BAT0") end)
     battery_timer:start()
+    --]]
 
     -- Create the wibox
     mywibox[s] = awful.wibox({ position = "top", screen = s })
@@ -315,7 +317,7 @@ for s = 1, screen.count() do
     right_layout:add(mypacmanwidget)
     right_layout:add(mytextclock)
     right_layout:add(mylayoutbox[s])
-    right_layout:add(mybatterywidget)
+--    right_layout:add(mybatterywidget)
 
     -- Now bring it all together (with the tasklist in the middle)
     local layout = wibox.layout.align.horizontal()

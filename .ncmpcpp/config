@@ -87,10 +87,11 @@ visualizer_sync_interval = "2"
 ## you need to compile ncmpcpp with fftw3 support.
 ##
 #
-#visualizer_type = "wave" (spectrum/wave)
-visualizer_type = "spectrum" (spectrum/wave)
+visualizer_type = "wave" (spectrum/wave)
+#visualizer_type = "spectrum" (spectrum/wave)
 #
 #visualizer_look = "◆│"
+visualizer_look = "●│"
 #
 ##### system encoding #####
 ##

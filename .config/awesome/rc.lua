@@ -107,7 +107,7 @@ local awesompd = require("awesompd/awesompd")
   musicwidget.show_album_cover = true
   -- Specify how big in pixels should an album cover be. Maximum value
   -- is 100.
-  musicwidget.album_cover_size = 50
+  musicwidget.album_cover_size = 100
   -- This option is necessary if you want the album covers to be shown
   -- for your local tracks.
   musicwidget.mpd_config = "/home/ktr/.config/mpd/mpd.conf"

@@ -1,44 +1,131 @@
-sw_volume: 42
+sw_volume: 36
 audio_device_state:1:My ALSA Device
 audio_device_state:1:my_fifo
 state: pause
-current: 15
-time: 303
+current: 114
+time: 2472
 random: 0
-repeat: 1
+repeat: 0
 single: 0
 consume: 0
 crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Infected Mushroom/Classical Mushroom/Infected Mushroom-01-Bust A Move.mp3
-1:Infected Mushroom/Classical Mushroom/02 None Of This Is Real.mp3
-2:Infected Mushroom/Classical Mushroom/03 Sailing In The Sea Of Mushroom.mp3
-3:Infected Mushroom/Classical Mushroom/04 The Shen.mp3
-4:Infected Mushroom/Classical Mushroom/05 Disco Mushroom.mp3
-5:Infected Mushroom/Classical Mushroom/06 Dracul.mp3
-6:Infected Mushroom/Classical Mushroom/07 Nothing Comes Easy.mp3
-7:Infected Mushroom/Classical Mushroom/08 Mush Mushi.mp3
-8:Infected Mushroom/Classical Mushroom/09 The Missed Symphony.mp3
-9:Infected Mushroom/Legend Of The Black Shawarma/01 Poquito Mas.mp3
-10:Infected Mushroom/Legend Of The Black Shawarma/02 Sa'eed.mp3
-11:Infected Mushroom/Legend Of The Black Shawarma/03 End Of The Road.mp3
-12:Infected Mushroom/Legend Of The Black Shawarma/05 Cant Stop.mp3
-13:Infected Mushroom/Legend Of The Black Shawarma/06 Herbert The Pervert.mp3
-14:Infected Mushroom/Legend Of The Black Shawarma/08 Project 100.mp3
-15:Infected Mushroom/Legend Of The Black Shawarma/09 Franks.mp3
-16:Infected Mushroom/Legend Of The Black Shawarma/10 Slowly.mp3
-17:Infected Mushroom/Legend Of The Black Shawarma/11 Legend Of The Black Shawarma.mp3
-18:Infected Mushroom/Vicious Delicious/01 Becoming Insane.mp3
-19:Infected Mushroom/Vicious Delicious/Infected Mushroom-02-Artillery.mp3
-20:Infected Mushroom/Vicious Delicious/Infected Mushroom-03-Vicious Delicious.mp3
-21:Infected Mushroom/Vicious Delicious/Infected Mushroom-04-Heavyweight.mp3
-22:Infected Mushroom/Vicious Delicious/Infected Mushroom-05-Suliman.mp3
-23:Infected Mushroom/Vicious Delicious/Infected Mushroom-06-Forgive Me.mp3
-24:Infected Mushroom/Vicious Delicious/07 Special Place.mp3
-25:Infected Mushroom/Vicious Delicious/Infected Mushroom-08-In Front Of Me.mp3
-26:Infected Mushroom/Vicious Delicious/Infected Mushroom-09-Eat It Raw.mp3
-27:Infected Mushroom/Vicious Delicious/Infected Mushroom-10-Change The Formality.mp3
-28:Infected Mushroom/Vicious Delicious/11 Before.mp3
+0:High Tone/Acid Dub Nucleik/01 TanioToshi.mp3
+1:High Tone/Acid Dub Nucleik/02 Short Visit.mp3
+2:High Tone/Acid Dub Nucleik/03 Do Be Dub Addict.mp3
+3:High Tone/Acid Dub Nucleik/04 Bad Weather.mp3
+4:High Tone/Acid Dub Nucleik/05 Worse & Worse.mp3
+5:High Tone/Acid Dub Nucleik/06 Spiral Snake.mp3
+6:High Tone/Acid Dub Nucleik/07 Buck Up.mp3
+7:High Tone/Acid Dub Nucleik/08 V.C.F Ramble.mp3
+8:High Tone/Acid Dub Nucleik/09 Enter The Dragon.mp3
+9:High Tone/Acid Dub Nucleik/10 Hard Working.mp3
+10:High Tone/Bass Température/High Tone - 01 - Echo-Logik.mp3
+11:High Tone/Bass Température/High Tone - 02 - Bass Temperature.mp3
+12:High Tone/Bass Température/High Tone - 03 - Train to Transylvania.mp3
+13:High Tone/Bass Température/High Tone - 04 - Emperor Dub.mp3
+14:High Tone/Bass Température/High Tone - 05 - Mother Dubber.mp3
+15:High Tone/Bass Température/High Tone - 06 - The Orientalist.mp3
+16:High Tone/Bass Température/High Tone - 07 - Hempro 905.mp3
+17:High Tone/Bass Température/High Tone - 08 - N°1 Station.mp3
+18:High Tone/Bass Température/High Tone - 09 - Rajaskank.mp3
+19:High Tone/Bass Température/High Tone - 10 - Lysergic Sound Of Dub.mp3
+20:High Tone/Bass Température/High Tone - 11 - Antivitrolles Dub.mp3
+21:High Tone/Bass Température/High Tone - 12 - Obviously.mp3
+22:High Tone/Highvisators/Track 1.mp3
+23:High Tone/Highvisators/Track 2.mp3
+24:High Tone/Highvisators/Track 3.mp3
+25:High Tone/Highvisators/Track 4.mp3
+26:High Tone/Highvisators/Track 5.mp3
+27:High Tone/Highvisators/Track 6.mp3
+28:High Tone/Highvisators/Track 7.mp3
+29:High Tone/Highvisators/Track 8.mp3
+30:High Tone/Highvisators/Track 9.mp3
+31:High Tone/Live/Track 1.mp3
+32:High Tone/Live/Track 2.mp3
+33:High Tone/Live/Track 3.mp3
+34:High Tone/Live/Track 4.mp3
+35:High Tone/Live/Track 5.mp3
+36:High Tone/Live/Track 6.mp3
+37:High Tone/Live/Track 7.mp3
+38:High Tone/Live/Track 8.mp3
+39:High Tone/Live/Track 9.mp3
+40:High Tone/Live/Track 10.mp3
+41:High Tone/Live/Track 11.mp3
+42:High Tone/Opus Incertum/01 - High Tone - Dehli,Katmandou.mp3
+43:High Tone/Opus Incertum/02 - High Tone - Mevlana in dub.mp3
+44:High Tone/Opus Incertum/03 - High Tone - Replay.mp3
+45:High Tone/Opus Incertum/04 - High Tone - Emergency.mp3
+46:High Tone/Opus Incertum/05 - High Tone - African airline.mp3
+47:High Tone/Opus Incertum/06 - High Tone - Wicked tune.mp3
+48:High Tone/Opus Incertum/07 - High Tone - DreadFull bass.mp3
+49:High Tone/Opus Incertum/08 - High Tone - Jesus Christ supastar.mp3
+50:High Tone/Opus Incertum/09 - High Tone - Ohm.mp3
+51:High Tone/Out Back/Disc 1/01 Spank.mp3
+52:High Tone/Out Back/Disc 1/02 Dirty Urban Beat.mp3
+53:High Tone/Out Back/Disc 1/03 Dub Wha.mp3
+54:High Tone/Out Back/Disc 1/04 Liqor.mp3
+55:High Tone/Out Back/Disc 1/05 Liqordub.mp3
+56:High Tone/Out Back/Disc 1/06 Rub-A-Dub Anthem.mp3
+57:High Tone/Out Back/Disc 1/07 Fly To The Moon.mp3
+58:High Tone/Out Back/Disc 1/08 Boogie Dub Production.mp3
+59:High Tone/Out Back/Disc 2/01 Space Rodeo.mp3
+60:High Tone/Out Back/Disc 2/02 Bastard.mp3
+61:High Tone/Out Back/Disc 2/03 Home Way.mp3
+62:High Tone/Out Back/Disc 2/04 Propal.mp3
+63:High Tone/Out Back/Disc 2/05 Uncontrolable Flesh.mp3
+64:High Tone/Out Back/Disc 2/06 Ollie Bible.mp3
+65:High Tone/Out Back/Disc 2/07 7th Assault.mp3
+66:High Tone/Out Back/Disc 2/08 Altered States.mp3
+67:High Tone/Re-Processed #1/01 Liquid Surfaces Featuring Blurum 13 (Musical Bonzeye RMX by Reverse Engineering).mp3
+68:High Tone/Re-Processed #1/03 Oeuf Bad 2 Fat (Bad Weather RMX by L'Oeuf Raide).mp3
+69:High Tone/Re-Processed #1/04 Manipulated Reality (V.C.F RMX by Interlope & Dragongaz).mp3
+70:High Tone/Re-Processed #1/05 Mental Reaction (Headline RMX by Interlope & Dragongaz).mp3
+71:High Tone/Re-Processed #1/07 Oriental Hystérie (The Orientalist RMX by Hybridsoundsystem).mp3
+72:High Tone/Re-Processed #1/10 Wasabi Shot (Shushit RMX by Interlope & Rimshot).mp3
+73:Hilight Tribe/Limboland (World Album)/Limboland (World Album).mp3
+74:Infected Mushroom/Vicious Delicious/01 Becoming Insane.mp3
+75:Infected Mushroom/Vicious Delicious/Infected Mushroom-02-Artillery.mp3
+76:Infected Mushroom/Vicious Delicious/Infected Mushroom-03-Vicious Delicious.mp3
+77:Infected Mushroom/Vicious Delicious/Infected Mushroom-04-Heavyweight.mp3
+78:Infected Mushroom/Vicious Delicious/Infected Mushroom-05-Suliman.mp3
+79:Infected Mushroom/Vicious Delicious/Infected Mushroom-06-Forgive Me.mp3
+80:Infected Mushroom/Vicious Delicious/07 Special Place.mp3
+81:Infected Mushroom/Vicious Delicious/Infected Mushroom-08-In Front Of Me.mp3
+82:Infected Mushroom/Vicious Delicious/Infected Mushroom-09-Eat It Raw.mp3
+83:Infected Mushroom/Vicious Delicious/Infected Mushroom-10-Change The Formality.mp3
+84:Infected Mushroom/Vicious Delicious/11 Before.mp3
+85:Infected Mushroom/Classical Mushroom/Infected Mushroom-01-Bust A Move.mp3
+86:Infected Mushroom/Classical Mushroom/02 None Of This Is Real.mp3
+87:Infected Mushroom/Classical Mushroom/03 Sailing In The Sea Of Mushroom.mp3
+88:Infected Mushroom/Classical Mushroom/04 The Shen.mp3
+89:Infected Mushroom/Classical Mushroom/05 Disco Mushroom.mp3
+90:Infected Mushroom/Classical Mushroom/06 Dracul.mp3
+91:Infected Mushroom/Classical Mushroom/07 Nothing Comes Easy.mp3
+92:Infected Mushroom/Classical Mushroom/08 Mush Mushi.mp3
+93:Infected Mushroom/Classical Mushroom/09 The Missed Symphony.mp3
+94:Infected Mushroom/Vicious Delicious/01 Becoming Insane.mp3
+95:Infected Mushroom/Vicious Delicious/Infected Mushroom-02-Artillery.mp3
+96:Infected Mushroom/Vicious Delicious/Infected Mushroom-03-Vicious Delicious.mp3
+97:Infected Mushroom/Vicious Delicious/Infected Mushroom-04-Heavyweight.mp3
+98:Infected Mushroom/Vicious Delicious/Infected Mushroom-05-Suliman.mp3
+99:Infected Mushroom/Vicious Delicious/Infected Mushroom-06-Forgive Me.mp3
+100:Infected Mushroom/Vicious Delicious/07 Special Place.mp3
+101:Infected Mushroom/Vicious Delicious/Infected Mushroom-08-In Front Of Me.mp3
+102:Infected Mushroom/Vicious Delicious/Infected Mushroom-09-Eat It Raw.mp3
+103:Infected Mushroom/Vicious Delicious/Infected Mushroom-10-Change The Formality.mp3
+104:Infected Mushroom/Vicious Delicious/11 Before.mp3
+105:Infected Mushroom/Legend Of The Black Shawarma/01 Poquito Mas.mp3
+106:Infected Mushroom/Legend Of The Black Shawarma/02 Sa'eed.mp3
+107:Infected Mushroom/Legend Of The Black Shawarma/03 End Of The Road.mp3
+108:Infected Mushroom/Legend Of The Black Shawarma/05 Cant Stop.mp3
+109:Infected Mushroom/Legend Of The Black Shawarma/06 Herbert The Pervert.mp3
+110:Infected Mushroom/Legend Of The Black Shawarma/08 Project 100.mp3
+111:Infected Mushroom/Legend Of The Black Shawarma/09 Franks.mp3
+112:Infected Mushroom/Legend Of The Black Shawarma/10 Slowly.mp3
+113:Infected Mushroom/Legend Of The Black Shawarma/11 Legend Of The Black Shawarma.mp3
+114:I Feel High - Selecta BESO/one shot/I Feel High - Selecta BESO--.mp3
+115:I Feel High - Selecta BESO/one shot 2/I Feel High - Selecta BESO--.mp3
 playlist_end

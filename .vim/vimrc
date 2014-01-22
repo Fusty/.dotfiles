@@ -1,12 +1,20 @@
-" .vimrc
+" vimrc
 " k.flood.fr
+
+set background=dark " dark background
+colorscheme dante " colorscheme
+syntax on " syntax highlighting
+filetype plugin indent on " load filetype-specific indent files
+" Templates
+"au bufNewFile *.sh 0r ~/.vim/templates/bash.sh
+
+
+set wildmenu " visual autocomplete for command menu
 
 " Set vim behaviour, not vi.
 set nocompatible
-" Case insensitive search
-set ignorecase
-" search is case sensitive only if you put a CAPITAL
-set smartcase
+set ignorecase " Case insensitive search
+set smartcase " search is case sensitive only if you put a CAPITAL
 " :tn for tabnew
 ca tn tabnew
 " Enable mouse
@@ -20,6 +28,9 @@ imap <silent> <C-n> <esc><C-n>
 imap <silent> <C-p> <esc><C-p>
 
 " column selection is ctrl shift V
+
+let mapleader="," " leader is comma
+
 
 " Create html tags when typing ,tag
 map! ,h1 <h1></h1><esc>2ba
@@ -45,7 +56,8 @@ map! ,r Regards,<Enter>~Nicolas CARPi<Enter><esc>
 map! ,@ @+<Enter>~Nico<esc>
 
 " Create backup files
-"set backupdir=/Users/ktr/.vim/backup,/tmp
+set backup
+set writebackup
 " fix the backspace problem
 set backspace=indent,eol,start
 set history=50		" keep 50 lines of command line history
@@ -53,18 +65,12 @@ set ruler		" show the cursor position all the time
 set showcmd		" display incomplete commands
 set incsearch		" do incremental searching
 "set number    "enable line numbering
+"set cursorline " highlight current line
 
-" Templates
-au bufNewFile *.sh 0r ~/.vim/templates/bash.sh
 
 " For crontab bug in Mac OS X (crontab temp file must be edited in place)
 au FileType crontab set nobackup nowritebackup
 
-" Syntax highlighting
-filetype plugin indent on
-syntax on
-"colorscheme desert
-colorscheme dante
 
 " FOLDS
 " save/restore foldings
@@ -74,8 +80,12 @@ autocmd BufWinEnter *.* silent loadview
 " get space to show/hide folds
 nnoremap <Space> za
 
-" pathogen is the plugin manager
+" Plugins
 execute pathogen#infect()
+" gundo http://sjl.bitbucket.org/gundo.vim/
+" ,u
+" requires vim to be compiled with +python
+nnoremap <leader>u :GundoToggle<CR>
 
 " Ctrl-t to close HTML tags
 au FileType html,xml,xsl,php,erb source ~/.vim/bundle/closetag.vim
@@ -91,11 +101,10 @@ set statusline+=%=%1*%y%*%*\              " file type
 set statusline+=%10((%l,%c)%)\            " line and column
 set statusline+=%P                        " percentage of file
 
-" PYTHON
-" #####################
-set tabstop=4
+set tabstop=4 " number of visual spaces per TAB
+set softtabstop=4 " number of spaces in tab when editing
 set shiftwidth=4
-set expandtab
+set expandtab " tabs are spaces
 "set list listchars=tab:▷⋅,trail:⋅,nbsp:⋅
 "set statusline=%F%m%r%h%w\ [TYPE=%Y\ %{&ff}]\
 "\ [%l/%L\ (%p%%)
@@ -105,18 +114,6 @@ au FileType py set textwidth=79 " PEP-8 Friendly
 
 " BEPO
 " #####################
-" {W} -> [É]
-" ——————————
-" On remappe W sur É :
-"noremap é w
-"noremap É W
-" Corollaire, pour effacer/remplacer un mot quand on n’est pas au début (daé / laé).
-" (attention, cela diminue la réactivité du {A}…)
-"noremap aé aw
-"noremap aÉ aW
-" Pour faciliter les manipulations de fenêtres, on utilise {W} comme un Ctrl+W :
-"noremap w <C-w>
-"noremap W <C-w><C-w>
  
 " [HJKL] -> {CTSR}
 " ————————————————

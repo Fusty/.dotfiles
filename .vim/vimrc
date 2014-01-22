@@ -58,6 +58,9 @@ map! ,@ @+<Enter>~Nico<esc>
 " Create backup files
 set backup
 set writebackup
+set backupdir=~/.vim/backup
+set directory=~/.vim/backup
+
 " fix the backspace problem
 set backspace=indent,eol,start
 set history=50		" keep 50 lines of command line history

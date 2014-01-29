@@ -1,16 +1,10 @@
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" File: "/home/caciano/.vim/dante.vim"
-" Created: "Thu, 23 May 2002 00:12:20 -0300 (caciano)"
-" Updated: "Sat, 24 Aug 2002 14:04:21 -0300 (caciano)"
-" Copyright (C) 2002, Caciano Machado <caciano@inf.ufrgs.br>
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" Colorscheme Option:
+" ktr colors for vim
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 hi clear
 if exists("syntax on")
 	syntax reset
 endif
-let g:colors_name = "dante"
+let g:colors_name = "ktr"
 
 " General colors
 hi Normal	ctermfg=gray guifg=peachpuff3 guibg=black
@@ -81,3 +75,8 @@ hi link Delimiter	Special
 hi link SpecialComment	Special
 hi link Debug		Special
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" tabs bar color
+hi TabLine ctermfg=Gray ctermbg=Black cterm=none
+hi TabLineSel ctermfg=Green ctermbg=Black cterm=bold
+hi TabLineFill ctermfg=White ctermbg=White cterm=none
+

@@ -2,7 +2,8 @@
 " k.flood.fr
 
 set background=dark " dark background
-colorscheme dante " colorscheme
+colorscheme ktr " colorscheme
+
 syntax on " syntax highlighting
 filetype plugin indent on " load filetype-specific indent files
 " Templates

@@ -1,6 +1,6 @@
 info_begin
 format: 1
-mpd_version: 0.18.6
+mpd_version: 0.18.7
 fs_charset: UTF-8
 tag: Artist
 tag: ArtistSort
@@ -21,34 +21,138 @@ tag: MUSICBRAINZ_ALBUMARTISTID
 tag: MUSICBRAINZ_TRACKID
 info_end
 directory: AC_DC
-mtime: 1389085371
+mtime: 1390046582
 begin: AC_DC
-directory: Back in Black
-mtime: 1362573413
-begin: AC_DC/Back in Black
-song_begin: 06 Back in Black.mp3
+directory: Back In Black
+mtime: 1390046642
+begin: AC_DC/Back In Black
+song_begin: 01 Hells Bells.flac
+Time: 313
+Artist: AC/DC
+Title: Hells Bells
+Album: Back In Black
+Date: 1980
+Track: 01
+Genre: Hard Rock
+AlbumArtist: AC/DC
+Disc: 1
+mtime: 1390046601
+song_end
+song_begin: 02 Shoot To Thrill.flac
+Time: 318
+Artist: AC/DC
+Title: Shoot To Thrill
+Album: Back In Black
+Date: 1980
+Track: 02
+Genre: Hard Rock
+AlbumArtist: AC/DC
+Disc: 1
+mtime: 1390046657
+song_end
+song_begin: 03 What Do You Do For Money Honey.flac
+Time: 216
+Artist: AC/DC
+Title: What Do You Do For Money Honey
+Album: Back In Black
+Date: 1980
+Track: 03
+Genre: Hard Rock
+AlbumArtist: AC/DC
+Disc: 1
+mtime: 1390046628
+song_end
+song_begin: 04 Givin The Dog A Bone.flac
+Time: 212
+Artist: AC/DC
+Title: Givin The Dog A Bone
+Album: Back In Black
+Date: 1980
+Track: 04
+Genre: Hard Rock
+AlbumArtist: AC/DC
+Disc: 1
+mtime: 1390046627
+song_end
+song_begin: 05 Let Me Put My Love Into You.flac
 Time: 256
 Artist: AC/DC
-Title: Back in Black
-Album: Back in Black
-Track: 6
+Title: Let Me Put My Love Into You
+Album: Back In Black
 Date: 1980
+Track: 05
 Genre: Hard Rock
-Composer: Angus Young/Brian Johnson/Malcolm Young
-mtime: 1362573415
+AlbumArtist: AC/DC
+Disc: 1
+mtime: 1390046599
 song_end
-song_begin: 07 You Shook me All Night Long.mp3
-Time: 210
+song_begin: 06 Back In Black.flac
+Time: 256
 Artist: AC/DC
-Title: You Shook me All Night Long
-Album: Back in Black
-Track: 7
+Title: Back In Black
+Album: Back In Black
 Date: 1980
+Track: 06
 Genre: Hard Rock
-Composer: Angus Young/Brian Johnson/Malcolm Young
-mtime: 1362573414
+AlbumArtist: AC/DC
+Disc: 1
+mtime: 1390046614
 song_end
-end: AC_DC/Back in Black
+song_begin: 07 You Shook Me All Night Long.flac
+Time: 211
+Artist: AC/DC
+Title: You Shook Me All Night Long
+Album: Back In Black
+Date: 1980
+Track: 07
+Genre: Hard Rock
+AlbumArtist: AC/DC
+Disc: 1
+mtime: 1390046640
+song_end
+song_begin: 08 Have A Drink On Me.flac
+Time: 239
+Artist: AC/DC
+Title: Have A Drink On Me
+Album: Back In Black
+Date: 1980
+Track: 08
+Genre: Hard Rock
+AlbumArtist: AC/DC
+Disc: 1
+mtime: 1390046641
+song_end
+song_begin: 09 Shake A Leg.flac
+Time: 246
+Artist: AC/DC
+Title: Shake A Leg
+Album: Back In Black
+Date: 1980
+Track: 09
+Genre: Hard Rock
+AlbumArtist: AC/DC
+Disc: 1
+mtime: 1390046616
+song_end
+song_begin: 10 Rock And Roll Ain't Noise Pollution.flac
+Time: 267
+Artist: AC/DC
+Title: Rock And Roll Ain't Noise Pollution
+Album: Back In Black
+Date: 1980
+Track: 10
+Genre: Hard Rock
+AlbumArtist: AC/DC
+Disc: 1
+mtime: 1390046657
+song_end
+playlist_begin: Back In Black.cue
+mtime: 1390046614
+playlist_end
+playlist_begin: AC,DC - Back In Black.m3u
+mtime: 1390046640
+playlist_end
+end: AC_DC/Back In Black
 directory: Black Ice
 mtime: 1362573422
 begin: AC_DC/Black Ice
@@ -58,9 +162,9 @@ Artist: AC/DC
 Title: Rock N Roll Train
 Album: Black Ice
 Track: 1/15
-Date: 2008-10-20
+Date: 2008
 Genre: Rock & Roll
-mtime: 1362573423
+mtime: 1390576918
 song_end
 song_begin: 02 Skies On Fire.mp3
 Time: 214
@@ -68,9 +172,9 @@ Artist: AC/DC
 Title: Skies On Fire
 Album: Black Ice
 Track: 2/15
-Date: 2008-10-20
+Date: 2008
 Genre: Rock & Roll
-mtime: 1362573422
+mtime: 1390576918
 song_end
 song_begin: 03 Big Jack.mp3
 Time: 237
@@ -78,9 +182,9 @@ Artist: AC/DC
 Title: Big Jack
 Album: Black Ice
 Track: 3/15
-Date: 2008-10-20
+Date: 2008
 Genre: Rock & Roll
-mtime: 1362573422
+mtime: 1390576918
 song_end
 song_begin: 04 Anything Goes.mp3
 Time: 202
@@ -88,9 +192,9 @@ Artist: AC/DC
 Title: Anything Goes
 Album: Black Ice
 Track: 4/15
-Date: 2008-10-20
+Date: 2008
 Genre: Rock & Roll
-mtime: 1362573421
+mtime: 1390576918
 song_end
 song_begin: 05 War Machine.mp3
 Time: 190
@@ -98,9 +202,9 @@ Artist: AC/DC
 Title: War Machine
 Album: Black Ice
 Track: 5/15
-Date: 2008-10-20
+Date: 2008
 Genre: Rock & Roll
-mtime: 1362573421
+mtime: 1390576918
 song_end
 song_begin: 06 Smash N Grab.mp3
 Time: 246
@@ -108,9 +212,9 @@ Artist: AC/DC
 Title: Smash N Grab
 Album: Black Ice
 Track: 6/15
-Date: 2008-10-20
+Date: 2008
 Genre: Rock & Roll
-mtime: 1362573420
+mtime: 1390576918
 song_end
 song_begin: 07 Spoilin' For A Fight.mp3
 Time: 197
@@ -118,9 +222,9 @@ Artist: AC/DC
 Title: Spoilin' For A Fight
 Album: Black Ice
 Track: 7/15
-Date: 2008-10-20
+Date: 2008
 Genre: Rock & Roll
-mtime: 1362573420
+mtime: 1390576918
 song_end
 song_begin: 08 Wheels.mp3
 Time: 209
@@ -128,9 +232,9 @@ Artist: AC/DC
 Title: Wheels
 Album: Black Ice
 Track: 8/15
-Date: 2008-10-20
+Date: 2008
 Genre: Rock & Roll
-mtime: 1362573419
+mtime: 1390576918
 song_end
 song_begin: 09 Decibel.mp3
 Time: 214
@@ -138,9 +242,9 @@ Artist: AC/DC
 Title: Decibel
 Album: Black Ice
 Track: 9/15
-Date: 2008-10-20
+Date: 2008
 Genre: Rock & Roll
-mtime: 1362573419
+mtime: 1390576918
 song_end
 song_begin: 10 Stormy May Day.mp3
 Time: 190
@@ -148,9 +252,9 @@ Artist: AC/DC
 Title: Stormy May Day
 Album: Black Ice
 Track: 10/15
-Date: 2008-10-20
+Date: 2008
 Genre: Rock & Roll
-mtime: 1362573418
+mtime: 1390576918
 song_end
 song_begin: 11 She Likes Rock N Roll.mp3
 Time: 233
@@ -158,9 +262,9 @@ Artist: AC/DC
 Title: She Likes Rock N Roll
 Album: Black Ice
 Track: 11/15
-Date: 2008-10-20
+Date: 2008
 Genre: Rock & Roll
-mtime: 1362573418
+mtime: 1390576918
 song_end
 song_begin: 12 Money Made.mp3
 Time: 256
@@ -168,9 +272,9 @@ Artist: AC/DC
 Title: Money Made
 Album: Black Ice
 Track: 12/15
-Date: 2008-10-20
+Date: 2008
 Genre: Rock & Roll
-mtime: 1362573417
+mtime: 1390576918
 song_end
 song_begin: 13 Rock N Roll Dream.mp3
 Time: 281
@@ -178,9 +282,9 @@ Artist: AC/DC
 Title: Rock N Roll Dream
 Album: Black Ice
 Track: 13/15
-Date: 2008-10-20
+Date: 2008
 Genre: Rock & Roll
-mtime: 1362573417
+mtime: 1390576918
 song_end
 song_begin: 14 Rockin All The Way.mp3
 Time: 203
@@ -188,9 +292,9 @@ Artist: AC/DC
 Title: Rockin All The Way
 Album: Black Ice
 Track: 14/15
-Date: 2008-10-20
+Date: 2008
 Genre: Rock & Roll
-mtime: 1362573416
+mtime: 1390576918
 song_end
 song_begin: 15 Black Ice.mp3
 Time: 205
@@ -198,21 +302,24 @@ Artist: AC/DC
 Title: Black Ice
 Album: Black Ice
 Track: 15/15
-Date: 2008-10-20
+Date: 2008
 Genre: Rock & Roll
-mtime: 1362573415
+mtime: 1390576918
 song_end
 end: AC_DC/Black Ice
 directory: Stiff Upper Lip
-mtime: 1389085406
+mtime: 1390583753
 begin: AC_DC/Stiff Upper Lip
-song_begin: stiff upper lip.mp3
-Time: 221
-Artist: AC DC
+song_begin: stiff-upper-lip.mp3
+Time: 215
+Artist: AC/DC
+AlbumArtist: AC/DC
 Title: Stiff Upper Lip
 Album: Stiff Upper Lip
-Genre: Heavy Metal
-mtime: 1389085402
+Track: 01
+Date: 2000
+Genre: Hard Rock
+mtime: 1390583775
 song_end
 end: AC_DC/Stiff Upper Lip
 end: AC_DC
@@ -18973,7 +19080,7 @@ directory: Glenn Gould
 mtime: 1362574730
 begin: Glenn Gould
 directory: Bach_ Goldberg Variations
-mtime: 1362574737
+mtime: 1390233237
 begin: Glenn Gould/Bach_ Goldberg Variations
 song_begin: 01 Bach_ Goldberg Variations, BWV 988 - Aria.m4a
 Time: 116
@@ -29178,7 +29285,7 @@ song_end
 end: Joss Stone/The Soul Sessions
 end: Joss Stone
 directory: João Gilberto
-mtime: 1389344815
+mtime: 1390046657
 begin: João Gilberto
 directory: Bossa Nova Jubileu Vol. 1
 mtime: 1389350136
@@ -29334,6 +29441,140 @@ Track: 15
 mtime: 1389311352
 song_end
 end: João Gilberto/Bossa Nova Jubileu Vol. 1
+directory: Live in Montreux
+mtime: 1390046675
+begin: João Gilberto/Live in Montreux
+song_begin: 01.Sem Compomisso.ogg
+Time: 254
+Artist: João Gilberto
+Album: Live in Montreux
+Title: Sem Compomisso
+Date: 1987
+Genre: Latin
+Track: 01
+mtime: 1390046659
+song_end
+song_begin: 02.Menino do Rio.ogg
+Time: 220
+Artist: João Gilberto
+Album: Live in Montreux
+Title: Menino do Rio
+Date: 1987
+Genre: Latin
+Track: 02
+mtime: 1390046668
+song_end
+song_begin: 03.Retrato Em Branco e Preto.ogg
+Time: 372
+Artist: João Gilberto
+Album: Live in Montreux
+Title: Retrato Em Branco e Preto
+Date: 1987
+Genre: Latin
+Track: 03
+mtime: 1390046677
+song_end
+song_begin: 04.Pra Que Discutir Com Madame.ogg
+Time: 353
+Artist: João Gilberto
+Album: Live in Montreux
+Title: Pra Que Discutir Com Madame
+Date: 1987
+Genre: Latin
+Track: 04
+mtime: 1390046663
+song_end
+song_begin: 05.Garota de Ipanema.ogg
+Time: 217
+Artist: João Gilberto
+Album: Live in Montreux
+Title: Garota de Ipanema
+Date: 1987
+Genre: Latin
+Track: 05
+mtime: 1390046663
+song_end
+song_begin: 06.Adeus América.ogg
+Time: 393
+Artist: João Gilberto
+Album: Live in Montreux
+Title: Adeus América
+Date: 1987
+Genre: Latin
+Track: 06
+mtime: 1390046674
+song_end
+song_begin: 07.Estate.ogg
+Time: 292
+Artist: João Gilberto
+Album: Live in Montreux
+Title: Estate
+Date: 1987
+Genre: Latin
+Track: 07
+mtime: 1390046668
+song_end
+song_begin: 08.Morena Boca de Ouro.ogg
+Time: 281
+Artist: João Gilberto
+Album: Live in Montreux
+Title: Morena Boca de Ouro
+Date: 1987
+Genre: Latin
+Track: 08
+mtime: 1390046671
+song_end
+song_begin: 09.A Felicidade.ogg
+Time: 284
+Artist: João Gilberto
+Album: Live in Montreux
+Title: A Felicidade
+Date: 1987
+Genre: Latin
+Track: 09
+mtime: 1390046671
+song_end
+song_begin: 10.Preconceito.ogg
+Time: 243
+Artist: João Gilberto
+Album: Live in Montreux
+Title: Preconceito
+Date: 1987
+Genre: Latin
+Track: 10
+mtime: 1390046666
+song_end
+song_begin: 11.Sandália de Prata.ogg
+Time: 324
+Artist: João Gilberto
+Album: Live in Montreux
+Title: Sandália de Prata
+Date: 1987
+Genre: Latin
+Track: 11
+mtime: 1390046666
+song_end
+song_begin: 12.Rosa Morena.ogg
+Time: 351
+Artist: João Gilberto
+Album: Live in Montreux
+Title: Rosa Morena
+Date: 1987
+Genre: Latin
+Track: 12
+mtime: 1390046661
+song_end
+song_begin: 13.Aquarela do Brasil.ogg
+Time: 522
+Artist: João Gilberto
+Album: Live in Montreux
+Title: Aquarela do Brasil
+Date: 1987
+Genre: Latin
+Track: 13
+mtime: 1390046677
+song_end
+end: João Gilberto/Live in Montreux
 end: João Gilberto
 directory: Judcho-7
 mtime: 1362575195
@@ -32569,7 +32810,7 @@ directory: Le Klub des 7
 mtime: 1362575302
 begin: Le Klub des 7
 directory: La classe de musique
-mtime: 1362575306
+mtime: 1390390104
 begin: Le Klub des 7/La classe de musique
 song_begin: 01 N'importe quoi !.mp3
 Time: 73
@@ -34792,6 +35033,184 @@ mtime: 1389086393
 playlist_end
 end: Louis Bertignac/2006 - Live Power Trio-2 CD
 end: Louis Bertignac
+directory: Louis Chedid
+mtime: 1390046677
+begin: Louis Chedid
+directory: Entre nous
+mtime: 1390569741
+begin: Louis Chedid/Entre nous
+song_begin: 01.Dites-lui que je laime.ogg
+Time: 229
+Artist: Louis Chedid
+Album: Entre nous
+Title: Dites-lui que je l'aime
+Date: 1994
+Genre: Pop
+Track: 01
+mtime: 1390046682
+song_end
+song_begin: 02.Ces mots sont pour toi.ogg
+Time: 228
+Artist: Louis Chedid
+Album: Entre nous
+Title: Ces mots sont pour toi
+Date: 1994
+Genre: Pop
+Track: 02
+mtime: 1390046687
+song_end
+song_begin: 03.A tu et à toi.ogg
+Time: 209
+Artist: Louis Chedid
+Album: Entre nous
+Title: A tu et à toi
+Date: 1994
+Genre: Pop
+Track: 03
+mtime: 1390046680
+song_end
+song_begin: 04.Ainsi soit-il.ogg
+Time: 219
+Artist: Louis Chedid
+Album: Entre nous
+Title: Ainsi soit-il
+Date: 1994
+Genre: Pop
+Track: 04
+mtime: 1390046700
+song_end
+song_begin: 05.Egomane.ogg
+Time: 182
+Artist: Louis Chedid
+Album: Entre nous
+Title: Egomane
+Date: 1994
+Genre: Pop
+Track: 05
+mtime: 1390046696
+song_end
+song_begin: 06.Papillon.ogg
+Time: 223
+Artist: Louis Chedid
+Album: Entre nous
+Title: Papillon
+Date: 1994
+Genre: Pop
+Track: 06
+mtime: 1390046701
+song_end
+song_begin: 07.Les absents ont toujours tort.ogg
+Time: 339
+Artist: Louis Chedid
+Album: Entre nous
+Title: Les absents ont toujours tort
+Date: 1994
+Genre: Pop
+Track: 07
+mtime: 1390046690
+song_end
+song_begin: 08.Le chacha de linsécurité.ogg
+Time: 235
+Artist: Louis Chedid
+Album: Entre nous
+Title: Le chacha de l'insécurité
+Date: 1994
+Genre: Pop
+Track: 08
+mtime: 1390046693
+song_end
+song_begin: 09.Anne, ma soeur Anne.ogg
+Time: 244
+Artist: Louis Chedid
+Album: Entre nous
+Title: Anne, ma soeur Anne
+Date: 1994
+Genre: Pop
+Track: 09
+mtime: 1390046690
+song_end
+song_begin: 10.Danseur mondain.ogg
+Time: 244
+Artist: Louis Chedid
+Album: Entre nous
+Title: Danseur mondain
+Date: 1994
+Genre: Pop
+Track: 10
+mtime: 1390046704
+song_end
+song_begin: 11.Et ils attendent.ogg
+Time: 278
+Artist: Louis Chedid
+Album: Entre nous
+Title: Et ils attendent
+Date: 1994
+Genre: Pop
+Track: 11
+mtime: 1390046704
+song_end
+song_begin: 12.La belle.ogg
+Time: 238
+Artist: Louis Chedid
+Album: Entre nous
+Title: La belle
+Date: 1994
+Genre: Pop
+Track: 12
+mtime: 1390046696
+song_end
+song_begin: 13.Sale dimanche, putain damour.ogg
+Time: 172
+Artist: Louis Chedid
+Album: Entre nous
+Title: Sale dimanche, putain d'amour
+Date: 1994
+Genre: Pop
+Track: 13
+mtime: 1390046698
+song_end
+song_begin: 14.Ver de terre.ogg
+Time: 183
+Artist: Louis Chedid
+Album: Entre nous
+Title: Ver de terre
+Date: 1994
+Genre: Pop
+Track: 14
+mtime: 1390046680
+song_end
+song_begin: 15.God save the swing.ogg
+Time: 273
+Artist: Louis Chedid
+Album: Entre nous
+Title: God save the swing
+Date: 1994
+Genre: Pop
+Track: 15
+mtime: 1390046686
+song_end
+song_begin: 16.Tas beau pas être beau.ogg
+Time: 234
+Artist: Louis Chedid
+Album: Entre nous
+Title: T'as beau pas être beau
+Date: 1994
+Genre: Pop
+Track: 16
+mtime: 1390046684
+song_end
+song_begin: 17.Entre nous.ogg
+Time: 184
+Artist: Louis Chedid
+Album: Entre nous
+Title: Entre nous
+Date: 1994
+Genre: Pop
+Track: 17
+mtime: 1390046693
+song_end
+end: Louis Chedid/Entre nous
+end: Louis Chedid
 directory: Loïc Lantoine
 mtime: 1362575330
 begin: Loïc Lantoine
@@ -35409,7 +35828,7 @@ directory: Maroon 5
 mtime: 1389787022
 begin: Maroon 5
 directory: Hands all over
-mtime: 1389787025
+mtime: 1389787096
 begin: Maroon 5/Hands all over
 song_begin: movelikejagger.mp3
 Time: 202
@@ -48066,190 +48485,942 @@ song_end
 end: My Chemical Romance/The Watchmen (OST)
 end: My Chemical Romance
 directory: NTM
-mtime: 1386928221
+mtime: 1390984212
 begin: NTM
+directory: 1995 - Live
+mtime: 1390984041
+begin: NTM/1995 - Live
+song_begin: 01 - Pour un Nouveau Massacre.flac
+Time: 301
+Album: Supreme NTM Live
+Artist: Suprême NTM
+Title: Pour un Nouveau Massacre
+Genre: Rap
+Date: 1995
+Track: 01
+Disc: 1
+mtime: 1390984279
+song_end
+song_begin: 02 - C'est Clair.flac
+Time: 160
+Album: Supreme NTM Live
+Artist: Suprême NTM
+Title: C'est Clair
+Genre: Rap
+Date: 1995
+Track: 02
+Disc: 1
+mtime: 1390984279
+song_end
+song_begin: 03 - Pass Pass le Oinj.flac
+Time: 257
+Album: Supreme NTM Live
+Artist: Suprême NTM
+Title: Pass Pass le Oinj
+Genre: Rap
+Date: 1995
+Track: 03
+Disc: 1
+mtime: 1390984279
+song_end
+song_begin: 04 - Come Again (Pour que ça Sonne Funk).flac
+Time: 211
+Album: Supreme NTM Live
+Artist: Suprême NTM
+Title: Come Again (Pour que ça Sonne Funk)
+Genre: Rap
+Date: 1995
+Track: 04
+Disc: 1
+mtime: 1390984279
+song_end
+song_begin: 05 - Popopop!! (Freestyle).flac
+Time: 275
+Album: Supreme NTM Live
+Artist: Suprême NTM
+Title: Popopop!! (Freestyle)
+Genre: Rap
+Date: 1995
+Track: 05
+Disc: 1
+mtime: 1390984279
+song_end
+end: NTM/1995 - Live
+directory: 1995 - Paris Sous Les Bombes
+mtime: 1390984041
+begin: NTM/1995 - Paris Sous Les Bombes
+song_begin: 01 - Intro.flac
+Time: 157
+Album: Paris Sous Les Bombes
+Artist: Suprême NTM
+Title: Intro
+Genre: Hip-Hop
+Date: 1995
+Track: 01
+mtime: 1390984279
+song_end
+song_begin: 02 - Plus Jamais Ca.flac
+Time: 287
+Album: Paris Sous Les Bombes
+Artist: Suprême NTM
+Title: Plus Jamais Ca
+Genre: Hip-Hop
+Date: 1995
+Track: 02
+mtime: 1390984279
+song_end
+song_begin: 03 - Tout N'est Pas Si Facile.flac
+Time: 291
+Album: Paris Sous Les Bombes
+Artist: Suprême NTM
+Title: Tout N'est Pas Si Facile
+Genre: Hip-Hop
+Date: 1995
+Track: 03
+mtime: 1390984279
+song_end
+song_begin: 04 - Come Again (Pour Que Ca Sonne Funk).flac
+Time: 246
+Album: Paris Sous Les Bombes
+Artist: Suprême NTM
+Title: Come Again (Pour Que Ca Sonne Funk)
+Genre: Hip-Hop
+Date: 1995
+Track: 04
+mtime: 1390984279
+song_end
+song_begin: 05 - Qu'est-ce Qu'on Attend.flac
+Time: 252
+Album: Paris Sous Les Bombes
+Artist: Suprême NTM
+Title: Qu'est-ce Qu'on Attend
+Genre: Hip-Hop
+Date: 1995
+Track: 05
+mtime: 1390984279
+song_end
+song_begin: 06 - Nouvelle Ecole.flac
+Time: 243
+Album: Paris Sous Les Bombes
+Artist: Suprême NTM
+Title: Nouvelle Ecole
+Genre: Hip-Hop
+Date: 1995
+Track: 06
+mtime: 1390984279
+song_end
+song_begin: 07 - Le Rêve.flac
+Time: 257
+Album: Paris Sous Les Bombes
+Artist: Suprême NTM
+Title: Le Rêve
+Genre: Hip-Hop
+Date: 1995
+Track: 07
+mtime: 1390984279
+song_end
+song_begin: 08 - Old Skool.flac
+Time: 186
+Album: Paris Sous Les Bombes
+Artist: Suprême NTM
+Title: Old Skool
+Genre: Hip-Hop
+Date: 1995
+Track: 08
+mtime: 1390984279
+song_end
+song_begin: 09 - Paris Sous Les Bombes (intro).flac
+Time: 42
+Album: Paris Sous Les Bombes
+Artist: Suprême NTM
+Title: Paris Sous Les Bombes (intro)
+Genre: Hip-Hop
+Date: 1995
+Track: 09
+mtime: 1390984279
+song_end
+song_begin: 10 - Paris Sous Les Bombes.flac
+Time: 259
+Album: Paris Sous Les Bombes
+Artist: Suprême NTM
+Title: Paris Sous Les Bombes
+Genre: Hip-Hop
+Date: 1995
+Track: 10
+mtime: 1390984279
+song_end
+song_begin: 11 - Pass Pass Le Oinj.flac
+Time: 249
+Album: Paris Sous Les Bombes
+Artist: Suprême NTM
+Title: Pass Pass Le Oinj
+Genre: Hip-Hop
+Date: 1995
+Track: 11
+mtime: 1390984279
+song_end
+song_begin: 12 - Qui Paiera Les Dégats (remix DJ Clyde).flac
+Time: 270
+Album: Paris Sous Les Bombes
+Artist: Suprême NTM
+Title: Qui Paiera Les Dégats (remix DJ Clyde)
+Genre: Hip-Hop
+Date: 1995
+Track: 12
+mtime: 1390984279
+song_end
+song_begin: 13 - Sista B. (intermède).flac
+Time: 41
+Album: Paris Sous Les Bombes
+Artist: Suprême NTM
+Title: Sista B. (intermède)
+Genre: Hip-Hop
+Date: 1995
+Track: 13
+mtime: 1390984279
+song_end
+song_begin: 14 - Est-ce La Vie Ou Moi.flac
+Time: 324
+Album: Paris Sous Les Bombes
+Artist: Suprême NTM
+Title: Est-ce La Vie Ou Moi
+Genre: Hip-Hop
+Date: 1995
+Track: 14
+mtime: 1390984279
+song_end
+song_begin: 15 - La Fièvre.flac
+Time: 246
+Album: Paris Sous Les Bombes
+Artist: Suprême NTM
+Title: La Fièvre
+Genre: Hip-Hop
+Date: 1995
+Track: 15
+mtime: 1390984279
+song_end
+song_begin: 16 - Popopop !! (Freestyle).flac
+Time: 239
+Album: Paris Sous Les Bombes
+Artist: Suprême NTM
+Title: Popopop !! (Freestyle)
+Genre: Hip-Hop
+Date: 1995
+Track: 16
+mtime: 1390984279
+song_end
+song_begin: 17 - Outro.flac
+Time: 136
+Album: Paris Sous Les Bombes
+Artist: Suprême NTM
+Title: Outro
+Genre: Hip-Hop
+Date: 1995
+Track: 17
+mtime: 1390984279
+song_end
+song_begin: 18 - Come Again 2 (remix).flac
+Time: 224
+Album: Paris Sous Les Bombes
+Artist: Suprême NTM
+Title: Come Again 2 (remix)
+Genre: Hip-Hop
+Date: 1995
+Track: 18
+mtime: 1390984279
+song_end
+song_begin: 19 - Saint-Denis Style Remix - Affirmative Action (avec Nas).flac
+Time: 245
+Album: Paris Sous Les Bombes
+Artist: Suprême NTM
+Title: Saint-Denis Style Remix - Affirmative Action (avec Nas)
+Genre: Hip-Hop
+Date: 1995
+Track: 19
+mtime: 1390984279
+song_end
+end: NTM/1995 - Paris Sous Les Bombes
+directory: 1998 - Suprême NTM
+mtime: 1390984253
+begin: NTM/1998 - Suprême NTM
+song_begin: 02 Back Dans Les Bacs.flac
+Time: 198
+Album: Suprême NTM
+Track: 02
+Title: Back dans les bacs
+Genre: misc
+Artist: Suprême NTM
+mtime: 1390984279
+song_end
+song_begin: 03 Laisse Pas Traîner Ton Fils.flac
+Time: 239
+Album: Suprême NTM
+Track: 03
+Title: Laisse Pas Traîner Ton Fils
+Genre: misc
+Artist: Suprême NTM
+mtime: 1390984279
+song_end
+song_begin: 04 That's My People.flac
+Time: 253
+Album: Suprême NTM
+Track: 04
+Title: That's My People
+Genre: misc
+Artist: Suprême NTM
+mtime: 1390984279
+song_end
+song_begin: 05 Seine-Saint-Denis Style.flac
+Time: 201
+Album: Suprême NTM
+Track: 05
+Title: Seine-Saint-Denis Style
+Genre: misc
+Artist: Suprême NTM
+mtime: 1390984279
+song_end
+song_begin: 06 Interlude.flac
+Time: 32
+Album: Suprême NTM
+Track: 06
+Title: Interlude
+Genre: misc
+Artist: Suprême NTM
+mtime: 1390984279
+song_end
+song_begin: 07 Ma Benz.flac
+Time: 248
+Album: Suprême NTM
+Track: 07
+Title: Ma Benz
+Genre: misc
+Artist: Suprême NTM
+mtime: 1390984279
+song_end
+song_begin: 08 C'est Arrivé Près D'chez Toi.flac
+Time: 243
+Album: Suprême NTM
+Track: 08
+Title: C'est arrivé près d'chez toi
+Genre: misc
+Artist: Suprême NTM
+mtime: 1390984279
+song_end
+song_begin: 09 On Est Encore Là (I).flac
+Time: 220
+Album: Suprême NTM
+Track: 09
+Title: On est encore là (I)
+Genre: misc
+Artist: Suprême NTM
+mtime: 1390984279
+song_end
+song_begin: 10 Odeurs De Soufre.flac
+Time: 270
+Album: Suprême NTM
+Track: 10
+Title: Odeurs de soufre
+Genre: misc
+Artist: Suprême NTM
+mtime: 1390984279
+song_end
+song_begin: 11 Je Vise Juste.flac
+Time: 194
+Album: Suprême NTM
+Track: 11
+Title: Je vise juste
+Genre: misc
+Artist: Suprême NTM
+mtime: 1390984279
+song_end
+song_begin: 12 Pose Ton Gun.flac
+Time: 221
+Album: Suprême NTM
+Track: 12
+Title: Pose ton gun
+Genre: misc
+Artist: Suprême NTM
+mtime: 1390984279
+song_end
+song_begin: 13 Respire.flac
+Time: 221
+Album: Suprême NTM
+Track: 13
+Title: Respire
+Genre: misc
+Artist: Suprême NTM
+mtime: 1390984279
+song_end
+song_begin: 14 On Est Encore Là (II).flac
+Time: 238
+Album: Suprême NTM
+Track: 14
+Title: On est encore là (II)
+Genre: misc
+Artist: Suprême NTM
+mtime: 1390984279
+song_end
+song_begin: 15 Hardcore Sur Le Beat.flac
+Time: 282
+Album: Suprême NTM
+Track: 15
+Title: Hardcore sur le beat
+Genre: misc
+Artist: Suprême NTM
+mtime: 1390984279
+song_end
+song_begin: 16 Outro.flac
+Time: 151
+Album: Suprême NTM
+Track: 16
+Title: Outro
+Genre: misc
+Artist: Suprême NTM
+mtime: 1390984279
+song_end
+end: NTM/1998 - Suprême NTM
+directory: 2000 - NTM Live
+mtime: 1390601000
+begin: NTM/2000 - NTM Live
+directory: Suprême NTM-NTM Live-CD1
+mtime: 1390984041
+begin: NTM/2000 - NTM Live/Suprême NTM-NTM Live-CD1
+song_begin: 01 Intro.flac
+Time: 156
+Album: NTM Live
+Artist: Suprême NTM
+Title: Intro
+AlbumArtist: Supreme NTM
+Genre: Rap
+Date: 2001
+Track: 01
+Disc: 1
+mtime: 1390984279
+song_end
+song_begin: 02 Seine St Denis Style.flac
+Time: 222
+Album: NTM Live
+Artist: Suprême NTM
+Title: Seine St Denis Style
+AlbumArtist: Supreme NTM
+Genre: Rap
+Date: 2001
+Track: 02
+Disc: 1
+mtime: 1390984279
+song_end
+song_begin: 03 On Est Encore Là II,On Est Encore Là I.flac
+Time: 256
+Album: NTM Live
+Artist: Suprême NTM
+Title: On Est Encore Là II/On Est Encore Là I
+AlbumArtist: Supreme NTM
+Genre: Rap
+Date: 2001
+Track: 03
+Disc: 1
+mtime: 1390984279
+song_end
+song_begin: 04 Pass Pass Le Oinj.flac
+Time: 200
+Album: NTM Live
+Artist: Suprême NTM
+Title: Pass Pass Le Oinj
+AlbumArtist: Supreme NTM
+Genre: Rap
+Date: 2001
+Track: 04
+Disc: 1
+mtime: 1390984279
+song_end
+song_begin: 05 That's My People.flac
+Time: 265
+Album: NTM Live
+Artist: Suprême NTM
+Title: That's My People
+AlbumArtist: Supreme NTM
+Genre: Rap
+Date: 2001
+Track: 05
+Disc: 1
+mtime: 1390984279
+song_end
+song_begin: 06 Check The Flow (Version Live 98),Respire.flac
+Time: 395
+Album: NTM Live
+Artist: Suprême NTM
+Title: Check The Flow (Version Live 98)/Respire
+AlbumArtist: Supreme NTM
+Genre: Rap
+Date: 2001
+Track: 06
+Disc: 1
+mtime: 1390984279
+song_end
+song_begin: 07 Je Vise Juste (Version Live 98).flac
+Time: 84
+Album: NTM Live
+Artist: Suprême NTM
+Title: Je Vise Juste (Version Live 98)
+AlbumArtist: Supreme NTM
+Genre: Rap
+Date: 2001
+Track: 07
+Disc: 1
+mtime: 1390984279
+song_end
+song_begin: 08 Pose Ton Gun.flac
+Time: 177
+Album: NTM Live
+Artist: Suprême NTM
+Title: Pose Ton Gun
+AlbumArtist: Supreme NTM
+Genre: Rap
+Date: 2001
+Track: 08
+Disc: 1
+mtime: 1390984279
+song_end
+song_begin: 09 Seine St Denis Style.flac
+Time: 149
+Album: NTM Live
+Artist: Suprême NTM
+Title: Seine St Denis Style
+AlbumArtist: Supreme NTM
+Genre: Rap
+Date: 2001
+Track: 09
+Disc: 1
+mtime: 1390984279
+song_end
+song_begin: 10 Qu'Est-Ce Qu'on Attend.flac
+Time: 182
+Album: NTM Live
+Artist: Suprême NTM
+Title: Qu'Est-Ce Qu'on Attend ?
+AlbumArtist: Supreme NTM
+Genre: Rap
+Date: 2001
+Track: 10
+Disc: 1
+mtime: 1390984279
+song_end
+song_begin: 11 Tout N'est Pas Si Facile.flac
+Time: 360
+Album: NTM Live
+Artist: Suprême NTM
+Title: Tout N'est Pas Si Facile
+AlbumArtist: Supreme NTM
+Genre: Rap
+Date: 2001
+Track: 11
+Disc: 1
+mtime: 1390984279
+song_end
+song_begin: 12 Ma Benz.flac
+Time: 298
+Album: NTM Live
+Artist: Suprême NTM
+Title: Ma Benz
+AlbumArtist: Supreme NTM
+Genre: Rap
+Date: 2001
+Track: 12
+Disc: 1
+mtime: 1390984279
+song_end
+song_begin: 13 Laisse Pas Trainer Ton Fils.flac
+Time: 289
+Album: NTM Live
+Artist: Suprême NTM
+Title: Laisse Pas Trainer Ton Fils
+AlbumArtist: Supreme NTM
+Genre: Rap
+Date: 2001
+Track: 13
+Disc: 1
+mtime: 1390984279
+song_end
+song_begin: 14 Paris Sous Les Bombes.flac
+Time: 182
+Album: NTM Live
+Artist: Suprême NTM
+Title: Paris Sous Les Bombes
+AlbumArtist: Supreme NTM
+Genre: Rap
+Date: 2001
+Track: 14
+Disc: 1
+mtime: 1390984279
+song_end
+song_begin: 15 Back Dans Les Bacs (Version Live 98).flac
+Time: 147
+Album: NTM Live
+Artist: Suprême NTM
+Title: Back Dans Les Bacs (Version Live 98)
+AlbumArtist: Supreme NTM
+Genre: Rap
+Date: 2001
+Track: 15
+Disc: 1
+mtime: 1390984279
+song_end
+song_begin: 16 Qui Paiera Les Dégats.flac
+Time: 242
+Album: NTM Live
+Artist: Suprême NTM
+Title: Qui Paiera Les Dégats ?
+AlbumArtist: Supreme NTM
+Genre: Rap
+Date: 2001
+Track: 16
+Disc: 1
+mtime: 1390984279
+song_end
+song_begin: 17 Police.flac
+Time: 230
+Album: NTM Live
+Artist: Suprême NTM
+Title: Police
+AlbumArtist: Supreme NTM
+Genre: Rap
+Date: 2001
+Track: 17
+Disc: 1
+mtime: 1390984279
+song_end
+song_begin: 18 C'est Arrivé Près D'chez Toi.flac
+Time: 323
+Album: NTM Live
+Artist: Suprême NTM
+Title: C'est Arrivé Près D'chez Toi
+AlbumArtist: Supreme NTM
+Genre: Rap
+Date: 2001
+Track: 18
+Disc: 1
+mtime: 1390984279
+song_end
+song_begin: 19 IV My People.flac
+Time: 289
+Album: NTM Live
+Artist: Suprême NTM
+Title: IV My People
+AlbumArtist: Supreme NTM
+Genre: Rap
+Date: 2001
+Track: 19
+Disc: 1
+mtime: 1390984279
+song_end
+end: NTM/2000 - NTM Live/Suprême NTM-NTM Live-CD1
+directory: Suprême NTM-NTM Live-CD2
+mtime: 1390984041
+begin: NTM/2000 - NTM Live/Suprême NTM-NTM Live-CD2
+song_begin: 01 Intro Live (Zenith 92).flac
+Time: 99
+Album: NTM Live
+Artist: Suprême NTM
+Title: Intro Live (Zenith 92)
+AlbumArtist: NTM
+Genre: Rap
+Date: 2000
+Track: 01
+Disc: 1
+mtime: 1390984279
+song_end
+song_begin: 02 Authentik.flac
+Time: 221
+Album: NTM Live
+Artist: Suprême NTM
+Title: Authentik
+AlbumArtist: NTM
+Genre: Rap
+Date: 2000
+Track: 02
+Disc: 1
+mtime: 1390984279
+song_end
+song_begin: 03 Le Monde De Demain (Zenith 92).flac
+Time: 295
+Album: NTM Live
+Artist: Suprême NTM
+Title: Le Monde De Demain (Zenith 92)
+AlbumArtist: NTM
+Genre: Rap
+Date: 2000
+Track: 03
+Disc: 1
+mtime: 1390984279
+song_end
+song_begin: 04 C'est clair II (Bataclan 96).flac
+Time: 170
+Album: NTM Live
+Artist: Suprême NTM
+Title: C'est clair II (Bataclan 96)
+AlbumArtist: NTM
+Genre: Rap
+Date: 2000
+Track: 04
+Disc: 1
+mtime: 1390984279
+song_end
+song_begin: 05 Check The Flow (Zenith 95).flac
+Time: 216
+Album: NTM Live
+Artist: Suprême NTM
+Title: Check The Flow (Zenith 95)
+AlbumArtist: NTM
+Genre: Rap
+Date: 2000
+Track: 05
+Disc: 1
+mtime: 1390984279
+song_end
+song_begin: 06 Plus Jamais Ca (Bataclan 96).flac
+Time: 209
+Album: NTM Live
+Artist: Suprême NTM
+Title: Plus Jamais Ca (Bataclan 96)
+AlbumArtist: NTM
+Genre: Rap
+Date: 2000
+Track: 06
+Disc: 1
+mtime: 1390984279
+song_end
+song_begin: 07 Paris Sous Les Bombes (Bataclan 96).flac
+Time: 294
+Album: NTM Live
+Artist: Suprême NTM
+Title: Paris Sous Les Bombes (Bataclan 96)
+AlbumArtist: NTM
+Genre: Rap
+Date: 2000
+Track: 07
+Disc: 1
+mtime: 1390984279
+song_end
+song_begin: 08 Pour Un Nouveau Massacre (Bataclan 96).flac
+Time: 273
+Album: NTM Live
+Artist: Suprême NTM
+Title: Pour Un Nouveau Massacre (Bataclan 96)
+AlbumArtist: NTM
+Genre: Rap
+Date: 2000
+Track: 08
+Disc: 1
+mtime: 1390984279
+song_end
+song_begin: 09 Come Again (Zenith 95).flac
+Time: 246
+Album: NTM Live
+Artist: Suprême NTM
+Title: Come Again (Zenith 95)
+AlbumArtist: NTM
+Genre: Rap
+Date: 2000
+Track: 09
+Disc: 1
+mtime: 1390984279
+song_end
+song_begin: 10 La Fièvre (Zenith 95).flac
+Time: 302
+Album: NTM Live
+Artist: Suprême NTM
+Title: La Fièvre (Zenith 95)
+AlbumArtist: NTM
+Genre: Rap
+Date: 2000
+Track: 10
+Disc: 1
+mtime: 1390984279
+song_end
+end: NTM/2000 - NTM Live/Suprême NTM-NTM Live-CD2
+end: NTM/2000 - NTM Live
 directory: Authentik
 mtime: 1386928230
 begin: NTM/Authentik
 song_begin: 01 - Test des micros.flac
 Time: 17
+Album: Authentik
 Artist: Suprême NTM
 Title: Test des micros
-Album: Authentik
+AlbumArtist: Suprême NTM
+Genre: Rap
 Date: 1991
 Track: 01
-Genre: Rap
-AlbumArtist: Suprême NTM
 Disc: 1
-mtime: 1386925363
+mtime: 1390984279
 song_end
 song_begin: 02 - Authentik.flac
 Time: 171
+Album: Authentik
 Artist: Suprême NTM
 Title: Authentik
-Album: Authentik
+AlbumArtist: Suprême NTM
+Genre: Rap
 Date: 1991
 Track: 02
-Genre: Rap
-AlbumArtist: Suprême NTM
 Disc: 1
-mtime: 1386925376
+mtime: 1390984279
 song_end
 song_begin: 03 - L'Argent pourrit les gens.flac
 Time: 200
+Album: Authentik
 Artist: Suprême NTM
 Title: L'Argent pourrit les gens
-Album: Authentik
+AlbumArtist: Suprême NTM
+Genre: Rap
 Date: 1991
 Track: 03
-Genre: Rap
-AlbumArtist: Suprême NTM
 Disc: 1
-mtime: 1386925377
+mtime: 1390984279
 song_end
 song_begin: 04 - De personne je ne serai la cible.flac
 Time: 215
+Album: Authentik
 Artist: Suprême NTM
 Title: De personne je ne serai la cible
-Album: Authentik
+AlbumArtist: Suprême NTM
+Genre: Rap
 Date: 1991
 Track: 04
-Genre: Rap
-AlbumArtist: Suprême NTM
 Disc: 1
-mtime: 1386925378
+mtime: 1390984279
 song_end
 song_begin: 05 - Big Flap.flac
 Time: 31
+Album: Authentik
 Artist: Suprême NTM
 Title: Big Flap
-Album: Authentik
+AlbumArtist: Suprême NTM
+Genre: Rap
 Date: 1991
 Track: 05
-Genre: Rap
-AlbumArtist: Suprême NTM
 Disc: 1
-mtime: 1386925374
+mtime: 1390984279
 song_end
 song_begin: 06 - Le Pouvoir.flac
 Time: 279
+Album: Authentik
 Artist: Suprême NTM
 Title: Le Pouvoir
-Album: Authentik
+AlbumArtist: Suprême NTM
+Genre: Rap
 Date: 1991
 Track: 06
-Genre: Rap
-AlbumArtist: Suprême NTM
 Disc: 1
-mtime: 1386925378
+mtime: 1390984279
 song_end
 song_begin: 07 - Freestyle.flac
 Time: 180
+Album: Authentik
 Artist: Suprême NTM
 Title: Freestyle
-Album: Authentik
+AlbumArtist: Suprême NTM
+Genre: Rap
 Date: 1991
 Track: 07
-Genre: Rap
-AlbumArtist: Suprême NTM
 Disc: 1
-mtime: 1386925377
+mtime: 1390984279
 song_end
 song_begin: 08 - Paix.flac
 Time: 177
+Album: Authentik
 Artist: Suprême NTM
 Title: Paix
-Album: Authentik
+AlbumArtist: Suprême NTM
+Genre: Rap
 Date: 1991
 Track: 08
-Genre: Rap
-AlbumArtist: Suprême NTM
 Disc: 1
-mtime: 1386925378
+mtime: 1390984279
 song_end
 song_begin: 09 - Le Monde de demain.flac
 Time: 241
+Album: Authentik
 Artist: Suprême NTM
 Title: Le Monde de demain
-Album: Authentik
+AlbumArtist: Suprême NTM
+Genre: Rap
 Date: 1991
 Track: 09
-Genre: Rap
-AlbumArtist: Suprême NTM
 Disc: 1
-mtime: 1386925378
+mtime: 1390984279
 song_end
 song_begin: 10 - Danse.flac
 Time: 201
+Album: Authentik
 Artist: Suprême NTM
 Title: Danse
-Album: Authentik
+AlbumArtist: Suprême NTM
+Genre: Rap
 Date: 1991
 Track: 10
-Genre: Rap
-AlbumArtist: Suprême NTM
 Disc: 1
-mtime: 1386925378
+mtime: 1390984279
 song_end
 song_begin: 11 - Quelle gratitude.flac
 Time: 182
+Album: Authentik
 Artist: Suprême NTM
 Title: Quelle gratitude ?
-Album: Authentik
+AlbumArtist: Suprême NTM
+Genre: Rap
 Date: 1991
 Track: 11
-Genre: Rap
-AlbumArtist: Suprême NTM
 Disc: 1
-mtime: 1386925376
+mtime: 1390984279
 song_end
 song_begin: 12 - Soul soul.flac
 Time: 273
+Album: Authentik
 Artist: Suprême NTM
 Title: Soul soul
-Album: Authentik
+AlbumArtist: Suprême NTM
+Genre: Rap
 Date: 1991
 Track: 12
-Genre: Rap
-AlbumArtist: Suprême NTM
 Disc: 1
-mtime: 1386925377
+mtime: 1390984279
 song_end
 song_begin: 13 - C'est clair.flac
 Time: 238
+Album: Authentik
 Artist: Suprême NTM
 Title: C'est clair
-Album: Authentik
+AlbumArtist: Suprême NTM
+Genre: Rap
 Date: 1991
 Track: 13
-Genre: Rap
-AlbumArtist: Suprême NTM
 Disc: 1
-mtime: 1386925377
+mtime: 1390984279
 song_end
 song_begin: 14 - Blanc et noir.flac
 Time: 213
+Album: Authentik
 Artist: Suprême NTM
 Title: Blanc et noir
-Album: Authentik
+AlbumArtist: Suprême NTM
+Genre: Rap
 Date: 1991
 Track: 14
-Genre: Rap
-AlbumArtist: Suprême NTM
 Disc: 1
-mtime: 1386925376
+mtime: 1390984279
 song_end
 song_begin: 15 - Dédicace.flac
 Time: 221
+Album: Authentik
 Artist: Suprême NTM
 Title: Dédicace
-Album: Authentik
+AlbumArtist: Suprême NTM
+Genre: Rap
 Date: 1991
 Track: 15
-Genre: Rap
-AlbumArtist: Suprême NTM
 Disc: 1
-mtime: 1386925376
+mtime: 1390984279
 song_end
 end: NTM/Authentik
 directory: J'appuie sur la gâchette
@@ -48257,190 +49428,190 @@ mtime: 1386928247
 begin: NTM/J'appuie sur la gâchette
 song_begin: 01 - Intro.flac
 Time: 48
+Album: 1993... J'appuie sur la gâchette
 Artist: Suprême NTM
 Title: Intro
-Album: 1993... J'appuie sur la gâchette
+Genre: Rap
 Date: 1993
 Track: 01
-Genre: Rap
 Disc: 1
-mtime: 1386926569
+mtime: 1390984279
 song_end
 song_begin: 02 - Pour un nouveau massacre.flac
 Time: 244
+Album: 1993... J'appuie sur la gâchette
 Artist: Suprême NTM
 Title: Pour un nouveau massacre
-Album: 1993... J'appuie sur la gâchette
+Genre: Rap
 Date: 1993
 Track: 02
-Genre: Rap
 Disc: 1
-mtime: 1386926574
+mtime: 1390984279
 song_end
 song_begin: 03 - Police.flac
 Time: 230
+Album: 1993... J'appuie sur la gâchette
 Artist: Suprême NTM
 Title: Police
-Album: 1993... J'appuie sur la gâchette
+Genre: Rap
 Date: 1993
 Track: 03
-Genre: Rap
 Disc: 1
-mtime: 1386926549
+mtime: 1390984279
 song_end
 song_begin: 04 - J'appuie sur la gachette.flac
 Time: 231
+Album: 1993... J'appuie sur la gâchette
 Artist: Suprême NTM
 Title: J'appuie sur la gachette
-Album: 1993... J'appuie sur la gâchette
+Genre: Rap
 Date: 1993
 Track: 04
-Genre: Rap
 Disc: 1
-mtime: 1386926573
+mtime: 1390984279
 song_end
 song_begin: 05 - Sur 24 pistes (Remix).flac
 Time: 277
+Album: 1993... J'appuie sur la gâchette
 Artist: Suprême NTM
 Title: Sur 24 pistes (Remix)
-Album: 1993... J'appuie sur la gâchette
+Genre: Rap
 Date: 1993
 Track: 05
-Genre: Rap
 Disc: 1
-mtime: 1386926574
+mtime: 1390984279
 song_end
 song_begin: 06 - En direct de Bujolvik.flac
 Time: 41
+Album: 1993... J'appuie sur la gâchette
 Artist: Suprême NTM
 Title: En direct de Bujolvik
-Album: 1993... J'appuie sur la gâchette
+Genre: Rap
 Date: 1993
 Track: 06
-Genre: Rap
 Disc: 1
-mtime: 1386926573
+mtime: 1390984279
 song_end
 song_begin: 07 - Plus rien ne va.flac
 Time: 269
+Album: 1993... J'appuie sur la gâchette
 Artist: Suprême NTM
 Title: Plus rien ne va
-Album: 1993... J'appuie sur la gâchette
+Genre: Rap
 Date: 1993
 Track: 07
-Genre: Rap
 Disc: 1
-mtime: 1386926574
+mtime: 1390984279
 song_end
 song_begin: 08 - Prisonnier du passé.flac
 Time: 169
+Album: 1993... J'appuie sur la gâchette
 Artist: Suprême NTM
 Title: Prisonnier du passé
-Album: 1993... J'appuie sur la gâchette
+Genre: Rap
 Date: 1993
 Track: 08
-Genre: Rap
 Disc: 1
-mtime: 1386926574
+mtime: 1390984279
 song_end
 song_begin: 09 - De best.flac
 Time: 307
+Album: 1993... J'appuie sur la gâchette
 Artist: Suprême NTM
 Title: De best
-Album: 1993... J'appuie sur la gâchette
+Genre: Rap
 Date: 1993
 Track: 09
-Genre: Rap
 Disc: 1
-mtime: 1386926574
+mtime: 1390984279
 song_end
 song_begin: 10 - En direct du Grand Nord.flac
 Time: 52
+Album: 1993... J'appuie sur la gâchette
 Artist: Suprême NTM
 Title: En direct du Grand Nord
-Album: 1993... J'appuie sur la gâchette
+Genre: Rap
 Date: 1993
 Track: 10
-Genre: Rap
 Disc: 1
-mtime: 1386926569
+mtime: 1390984279
 song_end
 song_begin: 11 - Qui paiera les dégâts.flac
 Time: 219
+Album: 1993... J'appuie sur la gâchette
 Artist: Suprême NTM
 Title: Qui paiera les dégâts ?
-Album: 1993... J'appuie sur la gâchette
+Genre: Rap
 Date: 1993
 Track: 11
-Genre: Rap
 Disc: 1
-mtime: 1386926574
+mtime: 1390984279
 song_end
 song_begin: 12 - Juste pour le fun.flac
 Time: 266
+Album: 1993... J'appuie sur la gâchette
 Artist: Suprême NTM
 Title: Juste pour le fun
-Album: 1993... J'appuie sur la gâchette
+Genre: Rap
 Date: 1993
 Track: 12
-Genre: Rap
 Disc: 1
-mtime: 1386926574
+mtime: 1390984279
 song_end
 song_begin: 13 - Dans le vent.flac
 Time: 212
+Album: 1993... J'appuie sur la gâchette
 Artist: Suprême NTM
 Title: Dans le vent
-Album: 1993... J'appuie sur la gâchette
+Genre: Rap
 Date: 1993
 Track: 13
-Genre: Rap
 Disc: 1
-mtime: 1386926574
+mtime: 1390984279
 song_end
 song_begin: 14 - 93.2 NTMEO radio.flac
 Time: 46
+Album: 1993... J'appuie sur la gâchette
 Artist: Suprême NTM
 Title: 93.2 NTMEO radio
-Album: 1993... J'appuie sur la gâchette
+Genre: Rap
 Date: 1993
 Track: 14
-Genre: Rap
 Disc: 1
-mtime: 1386926565
+mtime: 1390984279
 song_end
 song_begin: 15 - La révolution du son.flac
 Time: 246
+Album: 1993... J'appuie sur la gâchette
 Artist: Suprême NTM
 Title: La révolution du son
-Album: 1993... J'appuie sur la gâchette
+Genre: Rap
 Date: 1993
 Track: 15
-Genre: Rap
 Disc: 1
-mtime: 1386926574
+mtime: 1390984279
 song_end
 song_begin: 16 - C'est clair (part II).flac
 Time: 232
+Album: 1993... J'appuie sur la gâchette
 Artist: Suprême NTM
 Title: C'est clair (part II)
-Album: 1993... J'appuie sur la gâchette
+Genre: Rap
 Date: 1993
 Track: 16
-Genre: Rap
 Disc: 1
-mtime: 1386926573
+mtime: 1390984279
 song_end
 song_begin: 17 - Nouvelle école.flac
 Time: 38
+Album: 1993... J'appuie sur la gâchette
 Artist: Suprême NTM
 Title: Nouvelle école
-Album: 1993... J'appuie sur la gâchette
+Genre: Rap
 Date: 1993
 Track: 17
-Genre: Rap
 Disc: 1
-mtime: 1386926573
+mtime: 1390984279
 song_end
 end: NTM/J'appuie sur la gâchette
 directory: Le monde de demain
@@ -48449,46 +49620,46 @@ begin: NTM/Le monde de demain
 song_begin: 01 -Le monde de demain.flac
 Time: 337
 Album: Le monde de demain
-Artist: Suprême NTM
 Title: Le monde de demain
+Artist: Suprême NTM
 Genre: Rap
 Date: 1990
 Track: 01
 Disc: 1
-mtime: 1386928287
+mtime: 1390984279
 song_end
 song_begin: 02 -C'est clair.flac
 Time: 261
 Album: Le monde de demain
-Artist: Suprême NTM
 Title: C'est clair
+Artist: Suprême NTM
 Genre: Rap
 Date: 1990
 Track: 02
 Disc: 1
-mtime: 1386928287
+mtime: 1390984279
 song_end
 song_begin: 03 -Le pouvoir.flac
 Time: 289
 Album: Le monde de demain
-Artist: Suprême NTM
 Title: Le pouvoir
+Artist: Suprême NTM
 Genre: Rap
 Date: 1990
 Track: 03
 Disc: 1
-mtime: 1386928287
+mtime: 1390984279
 song_end
 song_begin: 04 -Le monde de demain instru.flac
 Time: 335
 Album: Le monde de demain
-Artist: Suprême NTM
 Title: Le monde de demain instru
+Artist: Suprême NTM
 Genre: Rap
 Date: 1990
 Track: 04
 Disc: 1
-mtime: 1386928287
+mtime: 1390984279
 song_end
 end: NTM/Le monde de demain
 end: NTM
@@ -51833,7 +53004,7 @@ directory: Otis Redding
 mtime: 1362576125
 begin: Otis Redding
 directory: The Very Best Of
-mtime: 1362576129
+mtime: 1390293940
 begin: Otis Redding/The Very Best Of
 song_begin: 01 These Arms Of Mine.mp3
 Time: 154
@@ -56897,11 +58068,410 @@ song_end
 end: Purcell/100 Masterpieces Vol. 1 (1685-1730)
 end: Purcell
 directory: Queen
-mtime: 1386523876
+mtime: 1390485243
 begin: Queen
-directory: The Best II
+directory: 1991 - Greatest Hits II
+mtime: 1390481084
+begin: Queen/1991 - Greatest Hits II
+song_begin: 01 A Kind Of Magic.flac
+Time: 263
+Artist: Queen
+Title: A Kind Of Magic
+Album: Greatest Hits II
+Date: 1991
+Track: 01
+Genre: Rock
+AlbumArtist: Queen
+Disc: 1
+mtime: 1390478538
+song_end
+song_begin: 02 Under Pressure.flac
+Time: 237
+Artist: Queen
+Title: Under Pressure
+Album: Greatest Hits II
+Date: 1991
+Track: 02
+Genre: Rock
+AlbumArtist: Queen
+Disc: 1
+mtime: 1390478538
+song_end
+song_begin: 03 Radio Ga Ga.flac
+Time: 344
+Artist: Queen
+Title: Radio Ga Ga
+Album: Greatest Hits II
+Date: 1991
+Track: 03
+Genre: Rock
+AlbumArtist: Queen
+Disc: 1
+mtime: 1390478535
+song_end
+song_begin: 04 I Want It All.flac
+Time: 242
+Artist: Queen
+Title: I Want It All
+Album: Greatest Hits II
+Date: 1991
+Track: 04
+Genre: Rock
+AlbumArtist: Queen
+Disc: 1
+mtime: 1390478538
+song_end
+song_begin: 05 I Want To Break Free.flac
+Time: 259
+Artist: Queen
+Title: I Want To Break Free
+Album: Greatest Hits II
+Date: 1991
+Track: 05
+Genre: Rock
+AlbumArtist: Queen
+Disc: 1
+mtime: 1390478539
+song_end
+song_begin: 06 Innuendo.flac
+Time: 388
+Artist: Queen
+Title: Innuendo
+Album: Greatest Hits II
+Date: 1991
+Track: 06
+Genre: Rock
+AlbumArtist: Queen
+Disc: 1
+mtime: 1390478540
+song_end
+song_begin: 07 It's A Hard Life.flac
+Time: 250
+Artist: Queen
+Title: It's A Hard Life
+Album: Greatest Hits II
+Date: 1991
+Track: 07
+Genre: Rock
+AlbumArtist: Queen
+Disc: 1
+mtime: 1390478539
+song_end
+song_begin: 08 Breakthru.flac
+Time: 250
+Artist: Queen
+Title: Breakthru
+Album: Greatest Hits II
+Date: 1991
+Track: 08
+Genre: Rock
+AlbumArtist: Queen
+Disc: 1
+mtime: 1390478539
+song_end
+song_begin: 09 Who Wants To Live Forever.flac
+Time: 298
+Artist: Queen
+Title: Who Wants To Live Forever
+Album: Greatest Hits II
+Date: 1991
+Track: 09
+Genre: Rock
+AlbumArtist: Queen
+Disc: 1
+mtime: 1390478536
+song_end
+song_begin: 10 Headlong.flac
+Time: 274
+Artist: Queen
+Title: Headlong
+Album: Greatest Hits II
+Date: 1991
+Track: 10
+Genre: Rock
+AlbumArtist: Queen
+Disc: 1
+mtime: 1390478537
+song_end
+song_begin: 11 The Miracle.flac
+Time: 295
+Artist: Queen
+Title: The Miracle
+Album: Greatest Hits II
+Date: 1991
+Track: 11
+Genre: Rock
+AlbumArtist: Queen
+Disc: 1
+mtime: 1390478540
+song_end
+song_begin: 12 I'm Going Slightly Mad.flac
+Time: 248
+Artist: Queen
+Title: I'm Going Slightly Mad
+Album: Greatest Hits II
+Date: 1991
+Track: 12
+Genre: Rock
+AlbumArtist: Queen
+Disc: 1
+mtime: 1390478539
+song_end
+song_begin: 13 The Invisible Man.flac
+Time: 239
+Artist: Queen
+Title: The Invisible Man
+Album: Greatest Hits II
+Date: 1991
+Track: 13
+Genre: Rock
+AlbumArtist: Queen
+Disc: 1
+mtime: 1390478539
+song_end
+song_begin: 14 Hammer To Fall.flac
+Time: 221
+Artist: Queen
+Title: Hammer To Fall
+Album: Greatest Hits II
+Date: 1991
+Track: 14
+Genre: Rock
+AlbumArtist: Queen
+Disc: 1
+mtime: 1390478540
+song_end
+song_begin: 15 Friends Will Be Friends.flac
+Time: 249
+Artist: Queen
+Title: Friends Will Be Friends
+Album: Greatest Hits II
+Date: 1991
+Track: 15
+Genre: Rock
+AlbumArtist: Queen
+Disc: 1
+mtime: 1390478540
+song_end
+song_begin: 16 The Show Must Go On.flac
+Time: 264
+Artist: Queen
+Title: The Show Must Go On
+Album: Greatest Hits II
+Date: 1991
+Track: 16
+Genre: Rock
+AlbumArtist: Queen
+Disc: 1
+mtime: 1390478540
+song_end
+song_begin: 17 One Vision.flac
+Time: 243
+Artist: Queen
+Title: One Vision
+Album: Greatest Hits II
+Date: 1991
+Track: 17
+Genre: Rock
+AlbumArtist: Queen
+Disc: 1
+mtime: 1390478539
+song_end
+end: Queen/1991 - Greatest Hits II
+directory: 1992 - Greatest Hits
+mtime: 1390481084
+begin: Queen/1992 - Greatest Hits
+song_begin: 01- We Will Rock You.flac
+Time: 123
+Artist: Queen
+Title: We Will Rock You
+Album: Greatest Hits
+Date: 1992
+Track: 01
+Genre: Rock
+Disc: 1
+mtime: 1390478539
+song_end
+song_begin: 02- We Are The Champions.flac
+Time: 182
+Artist: Queen
+Title: We Are The Champions
+Album: Greatest Hits
+Date: 1992
+Track: 02
+Genre: Rock
+Disc: 1
+mtime: 1390478536
+song_end
+song_begin: 03- Another One Bites The Dust.flac
+Time: 217
+Artist: Queen
+Title: Another One Bites The Dust
+Album: Greatest Hits
+Date: 1992
+Track: 03
+Genre: Rock
+Disc: 1
+mtime: 1390478539
+song_end
+song_begin: 04- Killer Queen.flac
+Time: 181
+Artist: Queen
+Title: Killer Queen
+Album: Greatest Hits
+Date: 1992
+Track: 04
+Genre: Rock
+Disc: 1
+mtime: 1390478538
+song_end
+song_begin: 05- Somebody To Love.flac
+Time: 297
+Artist: Queen
+Title: Somebody To Love
+Album: Greatest Hits
+Date: 1992
+Track: 05
+Genre: Rock
+Disc: 1
+mtime: 1390478538
+song_end
+song_begin: 06- Fat Bottomed Girls.flac
+Time: 257
+Artist: Queen
+Title: Fat Bottomed Girls
+Album: Greatest Hits
+Date: 1992
+Track: 06
+Genre: Rock
+Disc: 1
+mtime: 1390478539
+song_end
+song_begin: 07- Bicycle Race.flac
+Time: 183
+Artist: Queen
+Title: Bicycle Race
+Album: Greatest Hits
+Date: 1992
+Track: 07
+Genre: Rock
+Disc: 1
+mtime: 1390478539
+song_end
+song_begin: 08- You're My Best Friend.flac
+Time: 172
+Artist: Queen
+Title: You're My Best Friend
+Album: Greatest Hits
+Date: 1992
+Track: 08
+Genre: Rock
+Disc: 1
+mtime: 1390478536
+song_end
+song_begin: 09- Crazy Little Thing Called Love.flac
+Time: 164
+Artist: Queen
+Title: Crazy Little Thing Called Love
+Album: Greatest Hits
+Date: 1992
+Track: 09
+Genre: Rock
+Disc: 1
+mtime: 1390478537
+song_end
+song_begin: 10- Now I'm Here.flac
+Time: 255
+Artist: Queen
+Title: Now I'm Here
+Album: Greatest Hits
+Date: 1992
+Track: 10
+Genre: Rock
+Disc: 1
+mtime: 1390478539
+song_end
+song_begin: 11- Play The Game.flac
+Time: 212
+Artist: Queen
+Title: Play The Game
+Album: Greatest Hits
+Date: 1992
+Track: 11
+Genre: Rock
+Disc: 1
+mtime: 1390478538
+song_end
+song_begin: 12- Seven Seas Of Rhye.flac
+Time: 169
+Artist: Queen
+Title: Seven Seas Of Rhye
+Album: Greatest Hits
+Date: 1992
+Track: 12
+Genre: Rock
+Disc: 1
+mtime: 1390478537
+song_end
+song_begin: 13- Body Language.flac
+Time: 274
+Artist: Queen
+Title: Body Language
+Album: Greatest Hits
+Date: 1992
+Track: 13
+Genre: Rock
+Disc: 1
+mtime: 1390478539
+song_end
+song_begin: 14- Save Me.flac
+Time: 229
+Artist: Queen
+Title: Save Me
+Album: Greatest Hits
+Date: 1992
+Track: 14
+Genre: Rock
+Disc: 1
+mtime: 1390478538
+song_end
+song_begin: 15- Don't Stop Me Now.flac
+Time: 211
+Artist: Queen
+Title: Don't Stop Me Now
+Album: Greatest Hits
+Date: 1992
+Track: 15
+Genre: Rock
+Disc: 1
+mtime: 1390478534
+song_end
+song_begin: 16- Good Old Fashioned Lover Boy.flac
+Time: 176
+Artist: Queen
+Title: Good Old Fashioned Lover Boy
+Album: Greatest Hits
+Date: 1992
+Track: 16
+Genre: Rock
+Disc: 1
+mtime: 1390478536
+song_end
+song_begin: 17- I Want To Break Free.flac
+Time: 263
+Artist: Queen
+Title: I Want To Break Free
+Album: Greatest Hits
+Date: 1992
+Track: 17
+Genre: Rock
+Disc: 1
+mtime: 1390478539
+song_end
+end: Queen/1992 - Greatest Hits
+directory: 1997 - The Best II
 mtime: 1386523836
-begin: Queen/The Best II
+begin: Queen/1997 - The Best II
 song_begin: 01.Seven_Seas_Of_Rhye.ogg
 Time: 171
 Artist: Queen
@@ -57082,7 +58652,456 @@ Genre: Rock
 Track: 18
 mtime: 1386523461
 song_end
-end: Queen/The Best II
+end: Queen/1997 - The Best II
+directory: 2003 - Live.At.Wembley.Remastered
+mtime: 1390481079
+begin: Queen/2003 - Live.At.Wembley.Remastered
+directory: CD 1
+mtime: 1390481208
+begin: Queen/2003 - Live.At.Wembley.Remastered/CD 1
+song_begin: 01 - One Vision.flac
+Time: 350
+Title: One Vision
+Artist: Queen
+Album: Live At Wembley Stadium CD1
+Date: 2003
+Genre: Rock
+Track: 01
+mtime: 1390478597
+song_end
+song_begin: 02 - Tie Your Mother Down.flac
+Time: 247
+Title: Tie Your Mother Down
+Artist: Queen
+Album: Live At Wembley Stadium CD1
+Date: 2003
+Genre: Rock
+Track: 02
+mtime: 1390478598
+song_end
+song_begin: 03 - In The Lap Of The Gods.flac
+Time: 150
+Title: In The Lap Of The Gods
+Artist: Queen
+Album: Live At Wembley Stadium CD1
+Date: 2003
+Genre: Rock
+Track: 03
+mtime: 1390478595
+song_end
+song_begin: 04 - Seven Seas Of Rhye.flac
+Time: 79
+Title: Seven Seas Of Rhye
+Artist: Queen
+Album: Live At Wembley Stadium CD1
+Date: 2003
+Genre: Rock
+Track: 04
+mtime: 1390478592
+song_end
+song_begin: 05 - Tear It Up.flac
+Time: 133
+Title: Tear It Up
+Artist: Queen
+Album: Live At Wembley Stadium CD1
+Date: 2003
+Genre: Rock
+Track: 05
+mtime: 1390478591
+song_end
+song_begin: 06 - A Kind Of Magic.flac
+Time: 522
+Title: A Kind Of Magic
+Artist: Queen
+Album: Live At Wembley Stadium CD1
+Date: 2003
+Genre: Rock
+Track: 06
+mtime: 1390478598
+song_end
+song_begin: 07 - Under Pressure.flac
+Time: 221
+Title: Under Pressure
+Artist: Queen
+Album: Live At Wembley Stadium CD1
+Date: 2003
+Genre: Rock
+Track: 07
+mtime: 1390478595
+song_end
+song_begin: 08 - Another One Bites The Dust.flac
+Time: 359
+Title: Another One Bites The Dust
+Artist: Queen
+Album: Live At Wembley Stadium CD1
+Date: 2003
+Genre: Rock
+Track: 08
+mtime: 1390478597
+song_end
+song_begin: 09 - Who Wants To Live Forever.flac
+Time: 248
+Title: Who Wants To Live Forever
+Artist: Queen
+Album: Live At Wembley Stadium CD1
+Date: 2003
+Genre: Rock
+Track: 09
+mtime: 1390478596
+song_end
+song_begin: 10 - I Want To Break Free.flac
+Time: 215
+Title: I Want To Break Free
+Artist: Queen
+Album: Live At Wembley Stadium CD1
+Date: 2003
+Genre: Rock
+Track: 10
+mtime: 1390478597
+song_end
+song_begin: 11 - Impromptu.flac
+Time: 177
+Title: Impromptu
+Artist: Queen
+Album: Live At Wembley Stadium CD1
+Date: 2003
+Genre: Rock
+Track: 11
+mtime: 1390478598
+song_end
+song_begin: 12 - Brighton Rock Solo.flac
+Time: 551
+Title: Brighton Rock Solo
+Artist: Queen
+Album: Live At Wembley Stadium CD1
+Date: 2003
+Genre: Rock
+Track: 12
+mtime: 1390478595
+song_end
+song_begin: 13 - Now I'm Here.flac
+Time: 381
+Title: Now I'm Here
+Artist: Queen
+Album: Live At Wembley Stadium CD1
+Date: 2003
+Genre: Rock
+Track: 13
+mtime: 1390478598
+song_end
+end: Queen/2003 - Live.At.Wembley.Remastered/CD 1
+directory: CD 2
+mtime: 1390481206
+begin: Queen/2003 - Live.At.Wembley.Remastered/CD 2
+song_begin: 01 - Love Of My Life.flac
+Time: 289
+Title: Love Of My Life
+Artist: Queen
+Album: Live At Wembley Stadium [Disc 2 of 2]
+Date: 2003
+Genre: Rock
+Track: 01
+mtime: 1390478597
+song_end
+song_begin: 02 - Is This The World We Created.flac
+Time: 179
+Title: Is This The World We Created
+Artist: Queen
+Album: Live At Wembley Stadium [Disc 2 of 2]
+Date: 2003
+Genre: Rock
+Track: 02
+mtime: 1390478589
+song_end
+song_begin: 03 - (You're So Square) Baby I Don't Care.flac
+Time: 97
+Title: (You're So Square) Baby I Don't Care
+Artist: Queen
+Album: Live At Wembley Stadium [Disc 2 of 2]
+Date: 2003
+Genre: Rock
+Track: 03
+mtime: 1390478593
+song_end
+song_begin: 04 - Hello Mary Lou (Goodbye Heart).flac
+Time: 111
+Title: Hello Mary Lou (Goodbye Heart)
+Artist: Queen
+Album: Live At Wembley Stadium [Disc 2 of 2]
+Date: 2003
+Genre: Rock
+Track: 04
+mtime: 1390478592
+song_end
+song_begin: 05 - Tutti Frutti.flac
+Time: 205
+Title: Tutti Frutti
+Artist: Queen
+Album: Live At Wembley Stadium [Disc 2 of 2]
+Date: 2003
+Genre: Rock
+Track: 05
+mtime: 1390478598
+song_end
+song_begin: 06 - Gimme Some Lovin'.flac
+Time: 55
+Title: Gimme Some Lovin'
+Artist: Queen
+Album: Live At Wembley Stadium [Disc 2 of 2]
+Date: 2003
+Genre: Rock
+Track: 06
+mtime: 1390478594
+song_end
+song_begin: 07 - Bohemian Rhapsody.flac
+Time: 351
+Title: Bohemian Rhapsody
+Artist: Queen
+Album: Live At Wembley Stadium [Disc 2 of 2]
+Date: 2003
+Genre: Rock
+Track: 07
+mtime: 1390478596
+song_end
+song_begin: 08 - Hammer To Fall.flac
+Time: 364
+Title: Hammer To Fall
+Artist: Queen
+Album: Live At Wembley Stadium [Disc 2 of 2]
+Date: 2003
+Genre: Rock
+Track: 08
+mtime: 1390478597
+song_end
+song_begin: 09 - Crazy Little Thing Called Love.flac
+Time: 359
+Title: Crazy Little Thing Called Love
+Artist: Queen
+Album: Live At Wembley Stadium [Disc 2 of 2]
+Date: 2003
+Genre: Rock
+Track: 09
+mtime: 1390478594
+song_end
+song_begin: 10 - Big Spender.flac
+Time: 67
+Title: Big Spender
+Artist: Queen
+Album: Live At Wembley Stadium [Disc 2 of 2]
+Date: 2003
+Genre: Rock
+Track: 10
+mtime: 1390478595
+song_end
+song_begin: 11 - Radio Ga Ga.flac
+Time: 358
+Title: Radio Ga Ga
+Artist: Queen
+Album: Live At Wembley Stadium [Disc 2 of 2]
+Date: 2003
+Genre: Rock
+Track: 11
+mtime: 1390478599
+song_end
+song_begin: 12 - We Will Rock You.flac
+Time: 168
+Title: We Will Rock You
+Artist: Queen
+Album: Live At Wembley Stadium [Disc 2 of 2]
+Date: 2003
+Genre: Rock
+Track: 12
+mtime: 1390478596
+song_end
+song_begin: 13 - Friends Will Be Friends.flac
+Time: 127
+Title: Friends Will Be Friends
+Artist: Queen
+Album: Live At Wembley Stadium [Disc 2 of 2]
+Date: 2003
+Genre: Rock
+Track: 13
+mtime: 1390478594
+song_end
+song_begin: 14 - We Are The Champions.flac
+Time: 245
+Title: We Are The Champions
+Artist: Queen
+Album: Live At Wembley Stadium [Disc 2 of 2]
+Date: 2003
+Genre: Rock
+Track: 14
+mtime: 1390478596
+song_end
+song_begin: 15 - God Save The Queen.flac
+Time: 88
+Title: God Save The Queen
+Artist: Queen
+Album: Live At Wembley Stadium [Disc 2 of 2]
+Date: 2003
+Genre: Rock
+Track: 15
+mtime: 1390478592
+song_end
+end: Queen/2003 - Live.At.Wembley.Remastered/CD 2
+end: Queen/2003 - Live.At.Wembley.Remastered
+directory: 2011 - Greatest_Hits-Remastered
+mtime: 1390488981
+begin: Queen/2011 - Greatest_Hits-Remastered
+song_begin: 01-queen-bohemian_rhapsody-flacoff.flac
+Time: 357
+Track: 1
+Title: Bohemian Rhapsody
+Album: Greatest Hits
+Artist: Queen
+Genre: Rock
+mtime: 1390478456
+song_end
+song_begin: 02-queen-another_one_bites_the_dust-flacoff.flac
+Time: 216
+Track: 2
+Title: Another One Bites The Dust
+Album: Greatest Hits
+Artist: Queen
+Genre: Rock
+mtime: 1390478453
+song_end
+song_begin: 03-queen-killer_queen-flacoff.flac
+Time: 181
+Track: 3
+Title: Killer Queen
+Album: Greatest Hits
+Artist: Queen
+Genre: Rock
+mtime: 1390478455
+song_end
+song_begin: 04-queen-fat_bottomed_girls-flacoff.flac
+Time: 204
+Track: 4
+Title: Fat Bottomed Girls
+Album: Greatest Hits
+Artist: Queen
+Genre: Rock
+mtime: 1390478455
+song_end
+song_begin: 05-queen-bicycle_race-flacoff.flac
+Time: 182
+Track: 5
+Title: Bicycle Race
+Album: Greatest Hits
+Artist: Queen
+Genre: Rock
+mtime: 1390478459
+song_end
+song_begin: 06-queen-youre_my_best_friend-flacoff.flac
+Time: 173
+Track: 6
+Title: You're my Best Friend
+Album: Greatest Hits
+Artist: Queen
+Genre: Rock
+mtime: 1390478448
+song_end
+song_begin: 07-queen-dont_stop_me_now-flacoff.flac
+Time: 211
+Track: 7
+Title: Don't Stop Me Now
+Album: Greatest Hits
+Artist: Queen
+Genre: Rock
+mtime: 1390478455
+song_end
+song_begin: 08-queen-save_me-flacoff.flac
+Time: 229
+Track: 8
+Title: Save Me
+Album: Greatest Hits
+Artist: Queen
+Genre: Rock
+mtime: 1390478459
+song_end
+song_begin: 09-queen-crazy_little_thing_called_love-flacoff.flac
+Time: 165
+Track: 9
+Title: Crazy Little Thing Called Love
+Album: Greatest Hits
+Artist: Queen
+Genre: Rock
+mtime: 1390478456
+song_end
+song_begin: 10-queen-somebody_to_love-flacoff.flac
+Time: 298
+Track: 10
+Title: Somebody To Love
+Album: Greatest Hits
+Artist: Queen
+Genre: Rock
+mtime: 1390478478
+song_end
+song_begin: 11-queen-now_im_here-flacoff.flac
+Time: 255
+Track: 11
+Title: Now I'm Here
+Album: Greatest Hits
+Artist: Queen
+Genre: Rock
+mtime: 1390478457
+song_end
+song_begin: 12-queen-good_old-fashioned_lover_boy-flacoff.flac
+Time: 174
+Track: 12
+Title: Good Old-Fashioned Lover Boy
+Album: Greatest Hits
+Artist: Queen
+Genre: Rock
+mtime: 1390478456
+song_end
+song_begin: 13-queen-play_the_game-flacoff.flac
+Time: 214
+Track: 13
+Title: Play The Game
+Album: Greatest Hits
+Artist: Queen
+Genre: Rock
+mtime: 1390478456
+song_end
+song_begin: 14-queen-flash-flacoff.flac
+Time: 169
+Track: 14
+Title: Flash
+Album: Greatest Hits
+Artist: Queen
+Genre: Rock
+mtime: 1390478452
+song_end
+song_begin: 15-queen-seven_seas_of_rhye-flacoff.flac
+Time: 168
+Track: 15
+Title: Seven Seas of Rhye
+Album: Greatest Hits
+Artist: Queen
+Genre: Rock
+mtime: 1390478455
+song_end
+song_begin: 16-queen-we_will_rock_you-flacoff.flac
+Time: 123
+Track: 16
+Title: We Will Rock You
+Album: Greatest Hits
+Artist: Queen
+Genre: Rock
+mtime: 1390478453
+song_end
+song_begin: 17-queen-we_are_the_champions-flacoff.flac
+Time: 187
+Track: 17
+Title: We Are The Champions
+Album: Greatest Hits
+Artist: Queen
+Genre: Rock
+mtime: 1390478459
+song_end
+end: Queen/2011 - Greatest_Hits-Remastered
 end: Queen
 directory: Quincy Jones
 mtime: 1362576406
@@ -69646,7 +71665,7 @@ song_end
 end: The D.O.C_/Grand Theft Auto_ San Andreas
 end: The D.O.C_
 directory: The Doors
-mtime: 1362576815
+mtime: 1390574141
 begin: The Doors
 directory: L.A. Woman (Deluxe Edition)
 mtime: 1362576712
@@ -71595,16 +73614,6 @@ Genre: Rock
 mtime: 1362576798
 song_end
 end: The Doors/The Very Best of the Doors
-directory: Unknown Album
-mtime: 1362576815
-begin: The Doors/Unknown Album
-song_begin: Light my fire.mp3
-Time: 427
-Artist: The Doors
-Title: Light my fire
-mtime: 1362576817
-song_end
-end: The Doors/Unknown Album
 directory: Waiting For The Sun (Deluxe Edition)
 mtime: 1362576824
 begin: The Doors/Waiting For The Sun (Deluxe Edition)
@@ -78334,7 +80343,7 @@ song_end
 end: Vangelis/Madagascar OST
 end: Vangelis
 directory: Various Artists
-mtime: 1387140989
+mtime: 1390046704
 begin: Various Artists
 directory: 101 Classical Greats Volume 1
 mtime: 1362577118
@@ -80994,6 +83003,163 @@ Track: 15
 mtime: 1386523433
 song_end
 end: Various Artists/L'âme du gospel
+directory: La Pub se la joue Classique-Vol. 2
+mtime: 1390046727
+begin: Various Artists/La Pub se la joue Classique-Vol. 2
+song_begin: 01.Waldteufel-España (Citroën Xantia).ogg
+Time: 355
+Artist: Waldteufel
+Album: Vol. 2
+Title: España (Citroën Xantia)
+Date: 1994
+Track: 01
+mtime: 1390046721
+song_end
+song_begin: 02.Mozart-Concerto en re mineur n°20 - andante (Renault Safrane).ogg
+Time: 276
+Artist: Mozart
+Album: Vol. 2
+Title: Concerto en re mineur n°20 - andante (Renault Safrane)
+Date: 1994
+Track: 02
+mtime: 1390046729
+song_end
+song_begin: 03.Orff-Carmina Burana O Fortuna (BNP).ogg
+Time: 161
+Artist: Orff
+Album: Vol. 2
+Title: Carmina Burana "O Fortuna" (BNP)
+Date: 1994
+Track: 03
+mtime: 1390046723
+song_end
+song_begin: 04.Mozart-Messe en ut mineur Kyrie (Renault Laguna).ogg
+Time: 413
+Artist: Mozart
+Album: Vol. 2
+Title: Messe en ut mineur "Kyrie" (Renault Laguna)
+Date: 1994
+Track: 04
+mtime: 1390046726
+song_end
+song_begin: 05.Bloch-Concerto Grosso (Société Générale).ogg
+Time: 143
+Artist: Bloch
+Album: Vol. 2
+Title: Concerto Grosso (Société Générale)
+Date: 1994
+Track: 05
+mtime: 1390046711
+song_end
+song_begin: 06.Schubert-La Truite (Radio Bleue).ogg
+Time: 478
+Artist: Schubert
+Album: Vol. 2
+Title: La Truite (Radio Bleue)
+Date: 1994
+Track: 06
+mtime: 1390046731
+song_end
+song_begin: 07.Brahmx-Danse Hongroise n°7 en Fa Majeur (Dunlop).ogg
+Time: 106
+Artist: Brahmx
+Album: Vol. 2
+Title: Danse Hongroise n°7 en Fa Majeur (Dunlop)
+Date: 1994
+Track: 07
+mtime: 1390046708
+song_end
+song_begin: 08.Delibes-Coppéeia Valse Lente (FDJ - Le Loto).ogg
+Time: 128
+Artist: Delibes
+Album: Vol. 2
+Title: Coppéeia "Valse Lente" (FDJ - Le Loto)
+Date: 1994
+Track: 08
+mtime: 1390046709
+song_end
+song_begin: 09.Petitgirard-Lipmann - Musique originale (Crédit Mutuel).ogg
+Time: 158
+Artist: Petitgirard
+Album: Vol. 2
+Title: Lipmann - Musique originale (Crédit Mutuel)
+Date: 1994
+Track: 09
+mtime: 1390046724
+song_end
+song_begin: 10.Puccini-Manon Lescaut (BASF France).ogg
+Time: 161
+Artist: Puccini
+Album: Vol. 2
+Title: Manon Lescaut (BASF France)
+Date: 1994
+Track: 10
+mtime: 1390046717
+song_end
+song_begin: 11.Schubert-Trio Opus 100 - andante (Cajoline).ogg
+Time: 581
+Artist: Schubert
+Album: Vol. 2
+Title: Trio Opus 100 - andante (Cajoline)
+Date: 1994
+Track: 11
+mtime: 1390046717
+song_end
+song_begin: 12.J. Strauss II-Voix du Printemps (Justin Bridou - La Juste Sèche).ogg
+Time: 373
+Artist: J. Strauss II
+Album: Vol. 2
+Title: Voix du Printemps (Justin Bridou - La Juste Sèche)
+Date: 1994
+Track: 12
+mtime: 1390046708
+song_end
+song_begin: 13.Rimsky - Lorsakov-Le Vol du Bourdon (Le Sucre).ogg
+Time: 87
+Artist: Rimsky - Lorsakov
+Album: Vol. 2
+Title: Le Vol du Bourdon (Le Sucre)
+Date: 1994
+Track: 13
+mtime: 1390046709
+song_end
+song_begin: 14.Mozart-Petite Musique de Nuit - allegro (Crédit Agricole).ogg
+Time: 466
+Artist: Mozart
+Album: Vol. 2
+Title: Petite Musique de Nuit - allegro (Crédit Agricole)
+Date: 1994
+Track: 14
+mtime: 1390046715
+song_end
+song_begin: 15.Haydn-Concerto Pour Trompette (Bosch).ogg
+Time: 261
+Artist: Haydn
+Album: Vol. 2
+Title: Concerto Pour Trompette (Bosch)
+Date: 1994
+Track: 15
+mtime: 1390046727
+song_end
+song_begin: 16.Vivaldi-Stabat Mater Eia Mater (Peintures Corona).ogg
+Time: 216
+Artist: Vivaldi
+Album: Vol. 2
+Title: Stabat Mater "Eia Mater" (Peintures Corona)
+Date: 1994
+Track: 16
+mtime: 1390046706
+song_end
+song_begin: 17.Gershwin-Rhapsody In Blue (United Airlines).ogg
+Time: 342
+Artist: Gershwin
+Album: Vol. 2
+Title: Rhapsody In Blue (United Airlines)
+Date: 1994
+Track: 17
+mtime: 1390046721
+song_end
+end: Various Artists/La Pub se la joue Classique-Vol. 2
 directory: La légende du Jazz (disc 1)
 mtime: 1386523479
 begin: Various Artists/La légende du Jazz (disc 1)

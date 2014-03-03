@@ -122,7 +122,10 @@ local awesompd = require("awesompd/awesompd")
   -- Set all the servers to work with (here can be any servers you use)
   musicwidget.servers = {
      { server = "localhost",
-          port = 6600 } }
+          port = 6600 },
+     { server = "62.210.237.165",
+          port = 8000 }
+  }
   -- Set the buttons of the widget
   musicwidget:register_buttons({ { "", awesompd.MOUSE_LEFT, musicwidget:command_toggle() },
       			         { "Control", awesompd.MOUSE_SCROLL_UP, musicwidget:command_prev_track() },

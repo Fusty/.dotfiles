@@ -30,24 +30,25 @@ hi DiffDelete	term=bold cterm=bold ctermfg=lightblue ctermbg=cyan gui=bold guifg
 hi DiffText	term=reverse cterm=bold ctermbg=red gui=bold guibg=red3
 hi Cursor	term=reverse guifg=bg guibg=fg
 hi lCursor	guifg=bg guibg=fg
-hi StatusLine	term=reverse cterm=reverse gui=reverse guifg=gray60
-hi StatusLineNC	term=reverse cterm=reverse gui=reverse guifg=gray40
-hi VertSplit	term=reverse cterm=reverse gui=bold,reverse guifg=gray40
-hi Title	term=bold ctermfg=magenta gui=bold guifg=aquamarine
+hi StatusLine	term=reverse cterm=reverse
+hi StatusLineNC	term=reverse cterm=reverse
+hi VertSplit	term=reverse cterm=reverse
+hi Title	term=bold ctermfg=magenta
 
 " syntax hi colors
-hi Comment	term=bold ctermfg=cyan guifg=cyan4
-hi PreProc	term=underline ctermfg=white guifg=dodgerblue4
-hi Constant	term=underline ctermfg=darkred guifg=firebrick3
-hi Type		term=underline ctermfg=darkgreen gui=none guifg=chartreuse3
-hi Statement	term=bold ctermfg=darkyellow gui=none guifg=gold3
-hi Identifier	term=underline ctermfg=darkgreen guifg=darkolivegreen4
-hi Ignore	term=bold ctermfg=white guifg=gray45
-hi Special	term=underline ctermfg=brown guifg=sienna
-hi Error	term=reverse ctermfg=gray ctermbg=red guifg=gray guibg=red3
-hi Todo		term=standout ctermfg=black ctermbg=yellow gui=bold guifg=gray10 guibg=yellow4
-hi Underlined	term=underline cterm=underline ctermfg=white gui=underline guifg=slateblue
-hi Number	term=underline ctermfg=darkred guifg=red2
+hi Comment	term=bold ctermfg=cyan
+hi PreProc	term=underline ctermfg=white
+hi Constant	term=underline ctermfg=red cterm=bold
+hi Type		term=underline ctermfg=darkgreen
+hi Statement	term=bold ctermfg=darkyellow
+hi Identifier	term=underline ctermfg=darkgreen
+hi Ignore	term=bold ctermfg=white
+hi Special	term=underline ctermfg=brown
+hi Error	term=reverse ctermfg=gray ctermbg=red
+hi Todo		term=standout ctermfg=black ctermbg=yellow
+hi Underlined	term=underline cterm=underline ctermfg=white
+hi Number	term=underline ctermfg=darkred
+
 " syntax hi links
 hi link String		Constant
 hi link Character	Constant
@@ -74,7 +75,7 @@ hi link SpecialChar	Special
 hi link Delimiter	Special
 hi link SpecialComment	Special
 hi link Debug		Special
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
 " tabs bar color
 hi TabLine ctermfg=Gray ctermbg=Black cterm=none
 hi TabLineSel ctermfg=Green ctermbg=Black cterm=bold

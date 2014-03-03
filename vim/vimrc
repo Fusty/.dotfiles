@@ -2,9 +2,9 @@
 " k.flood.fr
 
 set background=dark " dark background
-colorscheme ktr " colorscheme
 
 syntax on " syntax highlighting
+colorscheme ktr " colorscheme
 filetype plugin indent on " load filetype-specific indent files
 " Templates
 "au bufNewFile *.sh 0r ~/.vim/templates/bash.sh

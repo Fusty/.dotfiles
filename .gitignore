@@ -3,4 +3,6 @@ vim/view/
 vim/backup
 config/mpd/database
 config/mpd/log
+config/mpd/pid
+config/mpd/state
 

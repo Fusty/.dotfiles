@@ -412,7 +412,7 @@ globalkeys = awful.util.table.join(
 
 clientkeys = awful.util.table.join(
     -- ktr shortcuts
-    -- l to lock screen with slock
+    -- $ to lock screen with slock
     awful.key({ modkey,           }, "$", function () awful.util.spawn("sudo slock") end),
     -- n to have filemanager
     awful.key({ modkey,           }, "n", function () awful.util.spawn("dbus-launch pcmanfm") end),
@@ -420,6 +420,7 @@ clientkeys = awful.util.table.join(
     awful.key({ modkey, "Shift"   }, "f", function () awful.util.spawn("firefox") end),
     awful.key({ modkey,           }, "f",      function (c) c.fullscreen = not c.fullscreen  end),
     awful.key({ modkey,           }, "q",      function (c) c:kill()                         end),
+    awful.key({ modkey,           }, "a",      function (c) c:kill()                         end),
     awful.key({ modkey,           }, "y",      function (c) c:kill()                         end),
     awful.key({ modkey, "Control" }, "space",  awful.client.floating.toggle                     ),
     -- enter to put client as master
